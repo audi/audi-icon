@@ -16,11 +16,16 @@
   .audiicon--large, .audiicon-large {
     width: 48px;
     height: 48px; }
-  .audiicon-large,
-  .audiicon--large .audiicon-small {
+  .audiicon--large .audiicon-small, .audiicon-large {
     visibility: hidden; }
   .audiicon--large .audiicon-large {
     visibility: visible; }
+  .audiicon-property-fill {
+    fill: currentColor;
+    stroke: none; }
+  .audiicon-property-stroke {
+    fill: none;
+    stroke: currentColor; }
   .audiicon-sprite {
     display: block;
     width: 0;
