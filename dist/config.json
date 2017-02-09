@@ -211,11 +211,6 @@
          "group": [0]
       },
       {
-         "name":"connect-key",
-         "serial": 42,
-         "group": [0]
-      },
-      {
          "name":"consumption",
          "serial": 43,
          "group": [0]
@@ -608,11 +603,6 @@
       {
          "name":"offline-maps",
          "serial": 121,
-         "group": [0]
-      },
-      {
-         "name":"oil-change",
-         "serial": 122,
          "group": [0]
       },
       {
