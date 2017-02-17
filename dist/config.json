@@ -16,7 +16,7 @@
          "group": [0]
       },
       {
-         "name":"adress-book",
+         "name":"address-book",
          "serial": 3,
          "group": [0]
       },
@@ -141,7 +141,7 @@
          "group": [0]
       },
       {
-         "name":"business-adress",
+         "name":"business-address",
          "serial": 28,
          "group": [0]
       },
