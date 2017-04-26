@@ -118,7 +118,3 @@ You can use [Browsersync](https://www.browsersync.io/) and the following one-lin
 npm install -g browser-sync
 npm run demo
 ```
-
-## License
-
-© Audi, 2016.
