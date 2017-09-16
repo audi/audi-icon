@@ -1,0 +1,6 @@
+<svg id="audio-volume-small" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <title>audio-volume</title>
+  <g class="audiicon-group audiicon-group--small">
+    <path d="M7.5,14.5h-4v-6h4v6Zm0,0,4,2.8852V5.6148L7.5,8.5m7.5416,6.52a5.1381,5.1381,0,0,0,0-7.0793m2.4965,9.73c6.6817-6.4737-.03-12.3414-.03-12.3414" fill="none" stroke="currentColor" stroke-miterlimit="10" class="audiicon-audio-volume__audio-volume"/>
+  </g>
+</svg>

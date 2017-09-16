@@ -1,0 +1,11 @@
+<svg id="system-zhihu-small" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <title>system-zhihu</title>
+  <g class="audiicon-group audiicon-group--small">
+    <circle cx="11.5" cy="11.5" r="11" fill="none" stroke="currentColor" stroke-miterlimit="10" class="audiicon-system-zhihu__circle"/>
+    <g class="audiicon-system-zhihu__zhihu">
+      <path d="M5.5,16.7707a2.2294,2.2294,0,0,0,1.8456-.1537c.91-.5378,1.5812-2.9029,1.5812-2.9029l2.1351,2.6468a3.8563,3.8563,0,0,0-.0346-1.6156c-.2293-.3558-1.4767-1.7865-1.4767-1.7865l-.5448.4867.3875-1.5661h2.3261s0-.9219-.4552-.9732-1.8709,0-1.8709,0V8.0381h2.0984s-.0251-.9475-.43-.9475H7.649L8.18,5.5284s-.86.0512-1.163.589S5.7275,9.4209,5.7275,9.4209s.3287.1537.8849-.256a2.2184,2.2184,0,0,0,.7332-1.1269l1.0113-.0512.0251,2.9193s-1.7443-.0256-2.0984,0-.5561.9732-.5561.9732H8.382a9.0182,9.0182,0,0,1-.91,2.7913A7.9641,7.9641,0,0,1,5.5,16.7707Z" transform="translate(0)" fill-rule="evenodd" class="audiicon-system-zhihu__character-first"/>
+      <path d="M13.3814,16.7054l1.5041-1.0825H17V7H12.216v8.6228h.8546ZM13.2288,7.96h2.7986v6.6838h-.994l-1.2673.9677-.2763-.9677h-.261Z" transform="translate(0)" fill-rule="evenodd" class="audiicon-system-zhihu__character-second"/>
+    </g>
+  </g>
+  <rect width="24" height="24" fill="none"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg id="filter-small" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <title>filter</title>
+  <path id="filter" d="M3.5,4.5h17l-6.4142,7.4142A2,2,0,0,0,13.5,13.3284V18.5l-3,2V13.3284a2,2,0,0,0-.5858-1.4142Z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+</svg>

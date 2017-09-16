@@ -676,7 +676,7 @@
          "group": [0]
       },
       {
-         "name":"pilotiertes-parken",
+         "name":"parking-pilot",
          "serial": 136,
          "group": [0]
       },
@@ -1299,6 +1299,76 @@
          "name":"youtube",
          "serial": 260,
          "group": [0]
+      },
+      {
+        "name":"filter",
+        "serial": 261,
+        "group": [0]
+      },
+      {
+        "name":"skip-previous",
+        "serial": 262,
+        "group": [0]
+      },
+      {
+        "name":"skip-next",
+        "serial": 263,
+        "group": [0]
+      },
+      {
+        "name":"settings",
+        "serial": 264,
+        "group": [0]
+      },
+      {
+        "name":"audio-volume",
+        "serial": 265,
+        "group": [0]
+      },
+      {
+        "name":"wechat",
+        "serial": 266,
+        "group": [0]
+      },
+      {
+        "name":"weibo",
+        "serial": 267,
+        "group": [0]
+      },
+      {
+        "name":"youku",
+        "serial": 268,
+        "group": [0]
+      },
+      {
+        "name":"zhihu",
+        "serial": 269,
+        "group": [0]
+      },
+      {
+        "name":"system-wechat",
+        "serial": 270,
+        "group": [1]
+      },
+      {
+        "name":"system-weibo",
+        "serial": 271,
+        "group": [1]
+      },
+      {
+        "name":"system-youku",
+        "serial": 272,
+        "group": [1]
+      },
+      {
+        "name":"system-zhihu",
+        "serial": 273,
+        "group": [1]
+      },
+      {
+        "name":"engine",
+        "serial": 274,
+        "group": [0]
       }
    ],
    "groups": [

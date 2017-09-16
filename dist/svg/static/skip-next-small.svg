@@ -1,0 +1,6 @@
+<svg id="skip-next-small" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <title>skip-next</title>
+  <g class="audiicon-group audiicon-group--small">
+    <path d="M19.5,19V4m-14,.375v14.25l10.4407-7.22L5.5,4.375Z" fill="none" stroke="currentColor" stroke-miterlimit="10" class="audiicon-skip-next__skip-next"/>
+  </g>
+</svg>

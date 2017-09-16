@@ -1,0 +1,6 @@
+<svg id="skip-previous-large" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>skip-previous</title>
+  <g class="audiicon-group audiicon-group--large">
+    <path d="M9.5,39.5357V8.4643m29,.7768L16.8728,24,38.5,38.7589V9.2411Z" fill="none" stroke="currentColor" stroke-miterlimit="10" class="audiicon-skip-previous__skip-previous"/>
+  </g>
+</svg>
