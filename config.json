@@ -561,11 +561,6 @@
          "group": [0]
       },
       {
-         "name":"motor",
-         "serial": 112,
-         "group": [0]
-      },
-      {
          "name":"my-dealer",
          "serial": 113,
          "group": [0]
@@ -1369,6 +1364,16 @@
         "name":"engine",
         "serial": 274,
         "group": [0]
+      },
+      {
+         "name":"decrease",
+         "serial": 275,
+         "group": [0]
+      },
+      {
+         "name":"increase",
+         "serial": 276,
+         "group": [0]
       }
    ],
    "groups": [
