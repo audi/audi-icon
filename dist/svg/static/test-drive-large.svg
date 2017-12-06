@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g fill="none" stroke="currentColor" stroke-miterlimit="10"><circle cx="23.5" cy="25.5" r="8"/><path d="M20.5 32.913V38.5h-5.464c-3.063 0-3.867-.886-4.21-1.265-2.41-2.658-3.879-6.066-4.236-9.735h9.172M26.5 32.913V38.5h5.464c3.063 0 3.867-.886 4.21-1.265 2.41-2.658 3.88-6.066 4.236-9.735h-9.172"/><path d="M3.5 25.75c0 5.19 1.89 9.956 5.103 13.5.642.708 2.132 2.25 6.433 2.25h16.928c4.3 0 5.79-1.542 6.433-2.25 3.212-3.544 5.103-8.31 5.103-13.5 0-11.184-8.954-20.25-20-20.25s-20 9.066-20 20.25z"/><path d="M30.472 21.585l9.808 1.525C39.02 14.85 31.987 8.5 23.5 8.5S7.98 14.85 6.72 23.11l9.808-1.525"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>test-drive-large</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="briefing" transform="translate(-1440.000000, -2074.000000)"></g>
+        <g id="test-drive-large" stroke="#000000">
+            <circle id="Oval" cx="23.5" cy="25.5" r="8"></circle>
+            <path d="M20.5,32.9 L20.5,38.5 L15,38.5 C11.9,38.5 11.1,37.6 10.8,37.2 C8.4,34.5 6.9,31.1 6.6,27.5 L15.8,27.5 M26.5,32.9 L26.5,38.5 L32,38.5 C35.1,38.5 35.9,37.6 36.2,37.2 C38.6,34.5 40.1,31.1 40.4,27.5 L31.2,27.5" id="Shape"></path>
+            <path d="M3.5,25.8 C3.5,31 5.4,35.8 8.6,39.3 C9.2,40 10.7,41.5 15,41.5 L32,41.5 C36.3,41.5 37.8,40 38.4,39.3 C41.6,35.8 43.5,31 43.5,25.8 C43.5,14.6 34.5,5.6 23.5,5.6 C12.5,5.6 3.5,14.6 3.5,25.8 Z" id="Shape"></path>
+            <path d="M30.5,21.6 L40.3,23.1 C39,14.9 32,8.5 23.5,8.5 C15,8.5 8,14.9 6.7,23.1 L16.5,21.6" id="Shape"></path>
+        </g>
+    </g>
+</svg>

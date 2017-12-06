@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor"><path stroke-linejoin="round" d="M17.5 5v3M17.5 9v2"/><path stroke-miterlimit="10" d="M23.2 12.5H11.8l5.7-11.4zM15.5 18.5c3.45.42 6 1.54 6 2.53 0 1.36-4.57 2.47-10.12 2.47s-10-1.11-10-2.47c0-1 2.53-2.15 6.15-2.53"/><g stroke-miterlimit="10"><path d="M12.42 2.63a5.91 5.91 0 0 0-6.84 5.84c0 3.26 5.91 11.81 5.91 11.81s2-2.93 3.7-6M12.64 6.21a2.53 2.53 0 0 0-3 4"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>geofence-alert-small</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="briefing" transform="translate(-3812.000000, -666.000000)"></g>
+        <g id="geofence-alert-small" stroke="#000000">
+            <path d="M17.5,5 L17.5,8 M17.5,9 L17.5,11" id="Shape" stroke-linejoin="round"></path>
+            <polygon id="Shape" points="23.2 12.5 11.8 12.5 17.5 1.1"></polygon>
+            <path d="M15.5,18.5 C19,18.9 21.5,20 21.5,21 C21.5,22.4 16.9,23.5 11.4,23.5 C5.9,23.5 1.4,22.4 1.4,21 C1.4,20 3.9,18.9 7.6,18.5" id="Path"></path>
+            <path d="M12.4,2.6 C9.2,2.1 6.2,4.3 5.7,7.5 C5.7,7.8 5.6,8.1 5.6,8.4 C5.6,11.7 11.5,20.2 11.5,20.2 C11.5,20.2 13.5,17.3 15.2,14.2 M12.6,6.2 C11.4,5.5 9.8,6 9.2,7.2 C8.7,8.2 8.9,9.4 9.6,10.2" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g fill="none" stroke="currentColor"><path stroke-miterlimit="10" d="M30.5 31V16"/><path stroke-linejoin="round" d="M16.5 16.375l10.441 7.03-10.441 7.22v-14.25z"/><circle cx="23.5" cy="23.5" r="22" stroke-miterlimit="10"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>system-skip-next-large</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="briefing" transform="translate(-2016.000000, -1946.000000)"></g>
+        <g id="system-skip-next-large" stroke="#000000">
+            <path d="M30.5,31 L30.5,16" id="Shape"></path>
+            <polygon id="Shape" stroke-linejoin="round" points="16.5 16.4 26.9 23.4 16.5 30.6"></polygon>
+            <circle id="Oval" cx="23.5" cy="23.5" r="22"></circle>
+        </g>
+    </g>
+</svg>

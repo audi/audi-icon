@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M17.033 8.243A4.25 4.25 0 0 0 19 8.133a7.759 7.759 0 0 0-2.007 1.455 7.54 7.54 0 0 1-6.096 7.935A9.734 9.734 0 0 1 5 15.95s2.622.708 4.069-.893c0 0-2.464.224-3.054-1.68a7.495 7.495 0 0 0 1.72-.243 2.798 2.798 0 0 1-2.275-2.743 2.7 2.7 0 0 0 1.285.343s-1.904-1.72-.724-3.738c0 0 2.552 3.117 5.714 2.938a2.718 2.718 0 0 1 4.57-2.581 4.262 4.262 0 0 0 1.848-.89 2.365 2.365 0 0 1-1.12 1.78z" fill="currentColor"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>twitter-small</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="briefing" transform="translate(-2084.000000, -2202.000000)"></g>
+        <g id="twitter-small" fill-rule="nonzero" fill="#000000">
+            <path d="M17,8.2 C17.7,8.3 18.3,8.3 19,8.1 C18.3,8.5 17.6,9 17,9.6 C17.3,13.4 14.7,16.8 10.9,17.5 C8.8,17.6 6.7,17.1 5,15.9 C5,15.9 7.6,16.6 9.1,15 C9.1,15 6.6,15.2 6,13.3 C6.6,13.3 7.2,13.2 7.7,13.1 C6.4,12.8 5.4,11.7 5.4,10.4 C5.8,10.6 6.2,10.7 6.7,10.7 C6.7,10.7 4.8,9 6,7 C6,7 8.6,10.1 11.7,9.9 C11.3,8.4 12.2,7 13.7,6.6 C14.6,6.4 15.6,6.6 16.3,7.3 C17,7.2 17.6,6.9 18.1,6.4 C18.1,7.2 17.7,7.9 17,8.2 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

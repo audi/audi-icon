@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g fill="none" stroke="currentColor" stroke-miterlimit="10"><path d="M7 32.5h26a11.5 11.5 0 0 0 11.5-11.497V20"/><path d="M11.826 37.073L7 32.5l4.826-4.573M41 14.5H15A11.5 11.5 0 0 0 3.5 25.997V27"/><path d="M36.174 9.927L41 14.5l-4.826 4.573"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>sync-large</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="briefing" transform="translate(-2016.000000, -1690.000000)"></g>
+        <g id="sync-large" stroke="#000000">
+            <path d="M7,32.5 L33,32.5 C39.4,32.5 44.5,27.4 44.5,21 L44.5,20" id="Shape"></path>
+            <path d="M11.8,37.1 L7,32.5 L11.8,27.9 M41,14.5 L15,14.5 C8.6,14.5 3.5,19.6 3.5,26 L3.5,27" id="Shape"></path>
+            <polyline id="Shape" points="36.2 9.9 41 14.5 36.2 19.1"></polyline>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-miterlimit="10"><path d="M3 17.5h14M3.5 7V3.842A2.33 2.33 0 0 1 5.813 1.5h2.333A2.357 2.357 0 0 1 10.5 3.834V10.5c0 1.105-.895 3-2 3s-2-1.895-2-3V4"/><path d="M22.485 6.5H.5v14.002a1.014 1.014 0 0 0 1.027.998H23.5V7.532A1.033 1.033 0 0 0 22.485 6.5z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>business-address-small</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="briefing" transform="translate(-356.000000, -282.000000)"></g>
+        <g id="business-address-small" stroke="#000000">
+            <path d="M3,17.5 L17,17.5 M3.5,7 L3.5,3.8 C3.5,2.5 4.5,1.5 5.8,1.5 L8.1,1.5 C9.4,1.5 10.4,2.5 10.5,3.8 L10.5,10.5 C10.5,11.6 9.6,13.5 8.5,13.5 C7.4,13.5 6.5,11.6 6.5,10.5 L6.5,4" id="Shape"></path>
+            <path d="M22.5,6.5 L0.5,6.5 L0.5,20.5 C0.5,21.1 1,21.5 1.5,21.5 L23.5,21.5 L23.5,7.5 C23.5,7 23,6.5 22.5,6.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

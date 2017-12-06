@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-miterlimit="10"><path d="M5.5 5.5h13v13h-13zM5.5 10.5h4M14.5 12.5h4M9.5 15.5h5M9.5 18.5v-13M14.5 18.5v-13"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>social-reader-small</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="briefing" transform="translate(-1508.000000, -1690.000000)"></g>
+        <g id="social-reader-small" stroke="#000000">
+            <path d="M5.5,5.5 L18.5,5.5 L18.5,18.5 L5.5,18.5 L5.5,5.5 Z M5.5,10.5 L9.5,10.5 L5.5,10.5 Z M14.5,12.5 L18.5,12.5 L14.5,12.5 Z M9.5,15.5 L14.5,15.5 L9.5,15.5 Z M9.5,18.5 L9.5,5.5 L9.5,18.5 Z M14.5,18.5 L14.5,5.5 L14.5,18.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

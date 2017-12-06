@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g fill="none" stroke="currentColor" stroke-miterlimit="10"><path d="M6 44.5h36M36.5 4.5v8s-.253 3.806 1.747 7.431S42 26.023 42 29.994c0 3.97-1.688 10.506-8 10.506"/><path d="M32 10l4.5-5.51L41 10"/><g clip-rule="evenodd"><path d="M20 10l4.5-5.51L29 10"/><path d="M24.5 4.5v8s-.253 3.806 1.747 7.431S30 26.023 30 29.994c0 3.97-1.688 10.506-8 10.506"/></g><g><path d="M18 13.5h-3.5M18 10.51h-3.5M18 7.5h-3.5M14.5 20.5h-4M14.5 27.999V5.5a2 2 0 1 0-4 0v23.349c-2.32.83-4 3.046-4 5.651a6 6 0 0 0 12 0c0-2.608-1.675-4.828-4-5.654v-.847z"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>climate-auto-large</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="briefing" transform="translate(-2880.000000, -282.000000)"></g>
+        <g id="climate-auto-large" stroke="#000000">
+            <path d="M6,44.5 L42,44.5 M36.5,4.5 L36.5,12.5 C36.5,12.5 36.2,16.3 38.2,19.9 C40.2,23.5 42,26 42,30 C42,34 40.3,40.5 34,40.5" id="Shape"></path>
+            <polyline id="Shape" points="32 10 36.5 4.5 41 10"></polyline>
+            <polyline id="Shape" points="20 10 24.5 4.5 29 10"></polyline>
+            <path d="M24.5,4.5 L24.5,12.5 C24.5,12.5 24.2,16.3 26.2,19.9 C28.2,23.5 30,26 30,30 C30,34 28.3,40.5 22,40.5" id="Shape"></path>
+            <path d="M18,13.5 L14.5,13.5 L18,13.5 Z M18,10.5 L14.5,10.5 L18,10.5 Z M18,7.5 L14.5,7.5 L18,7.5 Z M14.5,20.5 L10.5,20.5 L14.5,20.5 Z M14.5,28 L14.5,5.5 C14.5,4.4 13.6,3.5 12.5,3.5 C11.4,3.5 10.5,4.4 10.5,5.5 L10.5,28.8 C8.2,29.6 6.5,31.8 6.5,34.5 C6.5,37.8 9.2,40.5 12.5,40.5 C15.8,40.5 18.5,37.8 18.5,34.5 C18.5,31.9 16.8,29.7 14.5,28.8 L14.5,28 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

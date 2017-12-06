@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g fill="none" stroke="currentColor"><path stroke-linejoin="round" d="M19.5 16.415l10.441 6.99-10.441 7.18v-14.17z"/><circle cx="23.5" cy="23.5" r="22" stroke-miterlimit="10"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>system-play-large</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="briefing" transform="translate(-3168.000000, -1818.000000)"></g>
+        <g id="system-play-large" stroke="#000000">
+            <polygon id="Shape" stroke-linejoin="round" points="19.5 16.4 29.9 23.4 19.5 30.6"></polygon>
+            <circle id="Oval" cx="23.5" cy="23.5" r="22"></circle>
+        </g>
+    </g>
+</svg>
