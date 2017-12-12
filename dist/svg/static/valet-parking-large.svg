@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>valet-parking-large</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="briefing" transform="translate(-3744.000000, -2202.000000)"></g>
+        <g id="valet-parking-large" stroke="#000000">
+            <path d="M43,27 L46.5,28.8 L46.5,36.1 C46.5,36.1 45.8,37.7 40.9,37.7 L40.5,37.7 M7.6,37.5 L1.5,37.5 L1.5,35.6 C1.5,34.3 1.6,33.1 2,31.9 C2.5,30.7 3.6,29.8 4.9,29.4 L14.4,26.3 C17.9,23.3 22.4,21.5 27,21.5" id="Shape" stroke-linejoin="round"></path>
+            <circle id="Oval" cx="11.6" cy="36.6" r="4.1"></circle>
+            <circle id="Oval" cx="36.6" cy="36.6" r="4.1"></circle>
+            <path d="M32.6,37.5 L15.6,37.5" id="Shape"></path>
+            <path d="M37.5,17 L37.5,21 L37.5,17 Z" id="Shape"></path>
+            <polygon id="Path" points="45.5 24.5 45.5 14.5 29.5 14.5 29.5 24.5"></polygon>
+            <path d="M31.5,14.5 L31.5,11.5 C31.5,8.73857625 33.4187796,6.5 35.7857143,6.5 L39.2142857,6.5 C41.5812204,6.5 43.5,8.73857625 43.5,11.5 L43.5,14.5" id="Rectangle-6"></path>
+        </g>
+    </g>
+</svg>

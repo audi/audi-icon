@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>settings-small</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="briefing" transform="translate(-3812.000000, -1562.000000)"></g>
         <g id="settings-small" stroke="#000000">
-            <path d="M13.1,2.5 L13.1,5.2 C13.7,5.4 14.3,5.6 14.8,5.9 L16.7,4 L19,6.3 L17.1,8.2 C17.4,8.7 17.6,9.3 17.8,9.9 L20.5,9.9 L20.5,13.2 L17.8,13.2 C17.6,13.8 17.4,14.4 17.1,14.9 L19,16.8 L16.7,19 L14.8,17.1 C14.3,17.4 13.7,17.6 13.1,17.8 L13.1,20.5 L9.9,20.5 L9.9,17.8 C9.3,17.6 8.7,17.4 8.2,17.1 L6.3,19 L4,16.7 L5.9,14.8 C5.6,14.3 5.4,13.7 5.2,13.1 L2.5,13.1 L2.5,9.9 L5.2,9.9 C5.4,9.3 5.6,8.7 5.9,8.2 L4,6.3 L6.3,4 L8.2,5.9 C8.7,5.6 9.3,5.4 9.9,5.2 L9.9,2.5 L13.1,2.5 Z M11.5,8 C9.6,8 8,9.6 8,11.5 C8,13.4 9.6,15 11.5,15 C13.4,15 15,13.4 15,11.5 C15,9.6 13.4,8 11.5,8 L11.5,8 Z" id="Shape"></path>
+            <path d="M13.1,2.5 L13.1,5.2 C13.7,5.4 14.3,5.6 14.8,5.9 L16.7,4 L19,6.3 L17.1,8.2 C17.4,8.7 17.6,9.3 17.8,9.9 L20.5,9.9 L20.5,13.2 L17.8,13.2 C17.6,13.8 17.4,14.4 17.1,14.9 L19,16.8 L16.7,19 L14.8,17.1 C14.3,17.4 13.7,17.6 13.1,17.8 L13.1,20.5 L9.9,20.5 L9.9,17.8 C9.3,17.6 8.7,17.4 8.2,17.1 L6.3,19 L4,16.7 L5.9,14.8 C5.6,14.3 5.4,13.7 5.2,13.1 L2.5,13.1 L2.5,9.9 L5.2,9.9 C5.4,9.3 5.6,8.7 5.9,8.2 L4,6.3 L6.3,4 L8.2,5.9 C8.7,5.6 9.3,5.4 9.9,5.2 L9.9,2.5 L13.1,2.5 Z M11.5,8 C9.6,8 8,9.6 8,11.5 C8,13.4 9.6,15 11.5,15 C13.4,15 15,13.4 15,11.5 C15,9.6 13.4,8 11.5,8 Z" id="Shape"></path>
         </g>
     </g>
 </svg>
