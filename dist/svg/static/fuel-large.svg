@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>fuel-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(0.000000, -666.000000)"></g>
-        <g id="fuel-large" stroke="#000000">
-            <path d="M32,44.5 L2,44.5 M28.5,44.5 L28.5,6 C28.5,4.8 27.7,3.5 26.5,3.5 L7.5,3.5 C6.3,3.5 5.5,4.8 5.5,6 L5.5,44.5 M26,20.5 L8,20.5" id="Shape"></path>
-            <path d="M36.5,3.5 L45.5,12.5 L45.5,33.5 C45.5,34.6 44.7,35.5 43.7,35.5 C43.6,35.5 43.6,35.5 43.5,35.5 L39.5,35.5 C38.4,35.5 37.5,34.6 37.5,33.5 L37.5,22.5 C37.5,21.4 36.6,20.5 35.5,20.5 L31,20.5" id="Path"></path>
+        <g id="briefing" transform="translate(0.000000, -666.000000)"/>
+        <g id="fuel-large" stroke="currentColor">
+            <path d="M32,44.5 L2,44.5 M28.5,44.5 L28.5,6 C28.5,4.8 27.7,3.5 26.5,3.5 L7.5,3.5 C6.3,3.5 5.5,4.8 5.5,6 L5.5,44.5 M26,20.5 L8,20.5" id="Shape"/>
+            <path d="M36.5,3.5 L45.5,12.5 L45.5,33.5 C45.5,34.6 44.7,35.5 43.7,35.5 C43.6,35.5 43.6,35.5 43.5,35.5 L39.5,35.5 C38.4,35.5 37.5,34.6 37.5,33.5 L37.5,22.5 C37.5,21.4 36.6,20.5 35.5,20.5 L31,20.5" id="Path"/>
         </g>
     </g>
 </svg>

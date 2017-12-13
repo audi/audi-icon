@@ -3,13 +3,13 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>electric-charge-level-half-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-932.000000, -538.000000)"></g>
-        <g id="electric-charge-level-half-small" stroke="#000000">
-            <path d="M11.5,3.5 L11.5,19.5 C11.5,20.1 11.9,20.5 12.5,20.5 L21.5,20.5 C22.1,20.5 22.5,20.1 22.5,19.5 L22.5,3.5 C22.5,2.9 22.1,2.5 21.5,2.5 L12.5,2.5 C11.9,2.5 11.5,2.9 11.5,3.5 Z M21,17.5 L13,17.5 L21,17.5 Z M21,14.5 L13,14.5 L21,14.5 Z M21,11.5 L13,11.5 L21,11.5 Z" id="Shape"></path>
-            <polyline id="Shape" points="7 5 2.5 11.5 7.5 11.5 2.5 17.5"></polyline>
-            <polyline id="Shape" points="2.5 14.5 2.5 17.5 5.5 17.5"></polyline>
+        <g id="briefing" transform="translate(-932.000000, -538.000000)"/>
+        <g id="electric-charge-level-half-small" stroke="currentColor">
+            <path d="M11.5,3.5 L11.5,19.5 C11.5,20.1 11.9,20.5 12.5,20.5 L21.5,20.5 C22.1,20.5 22.5,20.1 22.5,19.5 L22.5,3.5 C22.5,2.9 22.1,2.5 21.5,2.5 L12.5,2.5 C11.9,2.5 11.5,2.9 11.5,3.5 Z M21,17.5 L13,17.5 L21,17.5 Z M21,14.5 L13,14.5 L21,14.5 Z M21,11.5 L13,11.5 L21,11.5 Z" id="Shape"/>
+            <polyline id="Shape" points="7 5 2.5 11.5 7.5 11.5 2.5 17.5"/>
+            <polyline id="Shape" points="2.5 14.5 2.5 17.5 5.5 17.5"/>
         </g>
     </g>
 </svg>

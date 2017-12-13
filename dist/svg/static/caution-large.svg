@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>caution-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2304.000000, -282.000000)"></g>
-        <g id="caution-large" stroke="#000000">
-            <path d="M23.5,33 L23.5,37 M23.5,18 L23.5,29" id="Shape" stroke-linejoin="round"></path>
-            <polygon id="Shape" points="2.5 42.5 23.5 4.5 44.5 42.5"></polygon>
+        <g id="briefing" transform="translate(-2304.000000, -282.000000)"/>
+        <g id="caution-large" stroke="currentColor">
+            <path d="M23.5,33 L23.5,37 M23.5,18 L23.5,29" id="Shape" stroke-linejoin="round"/>
+            <polygon id="Shape" points="2.5 42.5 23.5 4.5 44.5 42.5"/>
         </g>
     </g>
 </svg>

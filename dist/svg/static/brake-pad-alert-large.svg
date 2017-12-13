@@ -3,17 +3,17 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>brake-pad-alert-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3744.000000, -154.000000)"></g>
-        <g id="brake-pad-alert-large" stroke="#000000">
-            <path d="M1.5,25.5 C1.4,12.9 11.6,2.6 24.2,2.5 L24.5,2.5 L24.5,12.5 C17.3,12.5 11.5,18.3 11.5,25.5 L1.5,25.5 Z" id="Shape" stroke-linejoin="round"></path>
-            <path d="M24.5,7.5 C25.7,7.5 26.9,7.6 28.1,7.9" id="Path" stroke-linejoin="round"></path>
-            <path d="M42.5,25.5 C42.5,35.4 34.4,43.5 24.5,43.5 C14.6,43.5 6.5,35.4 6.5,25.5" id="Path" stroke-linejoin="round"></path>
-            <path d="M21.5,19.2 C18,20.9 16.5,25 18.2,28.5 C19.9,32 24,33.5 27.5,31.8 C29.9,30.6 31.5,28.2 31.5,25.5" id="Path" stroke-linejoin="round"></path>
-            <path d="M27.5,25.5 C27.5,23.8 26.2,22.5 24.5,22.5 C22.8,22.5 21.5,23.8 21.5,25.5 C21.5,27.2 22.8,28.5 24.5,28.5 C26.2,28.5 27.5,27.2 27.5,25.5 Z" id="Shape" stroke-linejoin="round"></path>
-            <path d="M35.5,8 L35.5,14 M35.5,16 L35.5,18" id="Shape" stroke-linejoin="round"></path>
-            <polygon id="Shape" points="45.5 20.5 25.5 20.5 35.5 2.5"></polygon>
+        <g id="briefing" transform="translate(-3744.000000, -154.000000)"/>
+        <g id="brake-pad-alert-large" stroke="currentColor">
+            <path d="M1.5,25.5 C1.4,12.9 11.6,2.6 24.2,2.5 L24.5,2.5 L24.5,12.5 C17.3,12.5 11.5,18.3 11.5,25.5 L1.5,25.5 Z" id="Shape" stroke-linejoin="round"/>
+            <path d="M24.5,7.5 C25.7,7.5 26.9,7.6 28.1,7.9" id="Path" stroke-linejoin="round"/>
+            <path d="M42.5,25.5 C42.5,35.4 34.4,43.5 24.5,43.5 C14.6,43.5 6.5,35.4 6.5,25.5" id="Path" stroke-linejoin="round"/>
+            <path d="M21.5,19.2 C18,20.9 16.5,25 18.2,28.5 C19.9,32 24,33.5 27.5,31.8 C29.9,30.6 31.5,28.2 31.5,25.5" id="Path" stroke-linejoin="round"/>
+            <path d="M27.5,25.5 C27.5,23.8 26.2,22.5 24.5,22.5 C22.8,22.5 21.5,23.8 21.5,25.5 C21.5,27.2 22.8,28.5 24.5,28.5 C26.2,28.5 27.5,27.2 27.5,25.5 Z" id="Shape" stroke-linejoin="round"/>
+            <path d="M35.5,8 L35.5,14 M35.5,16 L35.5,18" id="Shape" stroke-linejoin="round"/>
+            <polygon id="Shape" points="45.5 20.5 25.5 20.5 35.5 2.5"/>
         </g>
     </g>
 </svg>

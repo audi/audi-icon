@@ -3,13 +3,13 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>more-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-644.000000, -1050.000000)"></g>
-        <g id="more-small" stroke="#000000">
-            <circle id="Oval" cx="18.5" cy="11.5" r="1.1"></circle>
-            <circle id="Oval" cx="11.5" cy="11.5" r="1.1"></circle>
-            <circle id="Oval" cx="4.5" cy="11.5" r="1.1"></circle>
+        <g id="briefing" transform="translate(-644.000000, -1050.000000)"/>
+        <g id="more-small" stroke="currentColor">
+            <circle id="Oval" cx="18.5" cy="11.5" r="1.1"/>
+            <circle id="Oval" cx="11.5" cy="11.5" r="1.1"/>
+            <circle id="Oval" cx="4.5" cy="11.5" r="1.1"/>
         </g>
     </g>
 </svg>

@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>arrow-right-light-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-356.000000, -154.000000)"></g>
-        <g id="arrow-right-light-small" stroke="#000000">
-            <polyline id="Shape" points="10 1.5 16.5 1.5 16.5 8"></polyline>
-            <path d="M6.5,24 L6.5,14.8 C6.5,12.7 7.3,10.6 8.8,9.1 L16.5,1.5" id="Shape"></path>
+        <g id="briefing" transform="translate(-356.000000, -154.000000)"/>
+        <g id="arrow-right-light-small" stroke="currentColor">
+            <polyline id="Shape" points="10 1.5 16.5 1.5 16.5 8"/>
+            <path d="M6.5,24 L6.5,14.8 C6.5,12.7 7.3,10.6 8.8,9.1 L16.5,1.5" id="Shape"/>
         </g>
     </g>
 </svg>

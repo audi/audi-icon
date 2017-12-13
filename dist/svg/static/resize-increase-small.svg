@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>resize-increase-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2948.000000, -794.000000)"></g>
-        <g id="resize-increase-small" stroke="#000000">
-            <path d="M15,2.5 L21.4919,2.5 L21.4919,9 M13.5,10.5 L21.5,2.5 M10.5,13.5 L2.5,21.5 M2.5,15 L2.5,21.5 L8.9919,21.5" id="resize-increase"></path>
+        <g id="briefing" transform="translate(-2948.000000, -794.000000)"/>
+        <g id="resize-increase-small" stroke="currentColor">
+            <path d="M15,2.5 L21.4919,2.5 L21.4919,9 M13.5,10.5 L21.5,2.5 M10.5,13.5 L2.5,21.5 M2.5,15 L2.5,21.5 L8.9919,21.5" id="resize-increase"/>
         </g>
     </g>
 </svg>

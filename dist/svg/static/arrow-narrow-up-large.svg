@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>arrow-narrow-up-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(0.000000, -154.000000)"></g>
-        <g id="arrow-narrow-up-large" stroke="#000000">
-            <polyline id="Shape" points="34 27 24.5 21 15 27"></polyline>
+        <g id="briefing" transform="translate(0.000000, -154.000000)"/>
+        <g id="arrow-narrow-up-large" stroke="currentColor">
+            <polyline id="Shape" points="34 27 24.5 21 15 27"/>
         </g>
     </g>
 </svg>

@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>grab-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-932.000000, -794.000000)"></g>
-        <g id="grab-small" stroke="#000000">
-            <path d="M3,9.5 L21,9.5 M3,13.5 L21,13.5" id="Shape"></path>
+        <g id="briefing" transform="translate(-932.000000, -794.000000)"/>
+        <g id="grab-small" stroke="currentColor">
+            <path d="M3,9.5 L21,9.5 M3,13.5 L21,13.5" id="Shape"/>
         </g>
     </g>
 </svg>

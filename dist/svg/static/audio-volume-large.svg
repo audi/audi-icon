@@ -3,14 +3,14 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>audio-volume-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2304.000000, -154.000000)"></g>
-        <g id="audio-volume-large" stroke="#000000">
-            <polygon id="Shape" points="14.5 30.5 6.5 30.5 6.5 17.5 14.5 17.5"></polygon>
-            <polyline id="Path" points="14.7 30.2 23.5 36.5 23.5 11.5 14.7 17.8"></polyline>
-            <path d="M30.3,16.7 C30.3,16.7 37.1,23.8 30.3,31.3" id="Path"></path>
-            <path d="M35.3,11.3 C35.3,11.3 49.1,23.4 35.4,36.7" id="Path"></path>
+        <g id="briefing" transform="translate(-2304.000000, -154.000000)"/>
+        <g id="audio-volume-large" stroke="currentColor">
+            <polygon id="Shape" points="14.5 30.5 6.5 30.5 6.5 17.5 14.5 17.5"/>
+            <polyline id="Path" points="14.7 30.2 23.5 36.5 23.5 11.5 14.7 17.8"/>
+            <path d="M30.3,16.7 C30.3,16.7 37.1,23.8 30.3,31.3" id="Path"/>
+            <path d="M35.3,11.3 C35.3,11.3 49.1,23.4 35.4,36.7" id="Path"/>
         </g>
     </g>
 </svg>

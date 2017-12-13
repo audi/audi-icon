@@ -3,13 +3,13 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>erase-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2304.000000, -538.000000)"></g>
-        <g id="erase-large" stroke="#000000">
-            <polygon id="Shape" points="5 12.5 42 12.5 38.6 7.5 8.4 7.5"></polygon>
-            <path d="M37.5,16 L37.5,41 C37.5,42.4 36.4,43.5 35,43.5 L12,43.5 C10.6,43.5 9.5,42.4 9.5,41 L9.5,16" id="Path"></path>
-            <path d="M23.5,7.4 L23.5,4.4 M21,4.5 L26,4.5" id="Shape" stroke-linejoin="round"></path>
+        <g id="briefing" transform="translate(-2304.000000, -538.000000)"/>
+        <g id="erase-large" stroke="currentColor">
+            <polygon id="Shape" points="5 12.5 42 12.5 38.6 7.5 8.4 7.5"/>
+            <path d="M37.5,16 L37.5,41 C37.5,42.4 36.4,43.5 35,43.5 L12,43.5 C10.6,43.5 9.5,42.4 9.5,41 L9.5,16" id="Path"/>
+            <path d="M23.5,7.4 L23.5,4.4 M21,4.5 L26,4.5" id="Shape" stroke-linejoin="round"/>
         </g>
     </g>
 </svg>

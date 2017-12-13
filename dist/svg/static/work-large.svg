@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>work-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1152.000000, -2458.000000)"></g>
-        <g id="work-large" stroke="#000000">
-            <polygon id="Shape" points="35.5 41.5 27.5 41.5 27.5 32.5 21.5 32.5 21.5 41.5 13.5 41.5 13.5 6.5 35.5 6.5"></polygon>
-            <path d="M17.5,10.5 L22.5,10.5 L22.5,15.5 L17.5,15.5 L17.5,10.5 Z M26.5,10.5 L31.5,10.5 L31.5,15.5 L26.5,15.5 L26.5,10.5 Z M17.5,21.5 L22.5,21.5 L22.5,26.5 L17.5,26.5 L17.5,21.5 Z M26.5,21.5 L31.5,21.5 L31.5,26.5 L26.5,26.5 L26.5,21.5 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(-1152.000000, -2458.000000)"/>
+        <g id="work-large" stroke="currentColor">
+            <polygon id="Shape" points="35.5 41.5 27.5 41.5 27.5 32.5 21.5 32.5 21.5 41.5 13.5 41.5 13.5 6.5 35.5 6.5"/>
+            <path d="M17.5,10.5 L22.5,10.5 L22.5,15.5 L17.5,15.5 L17.5,10.5 Z M26.5,10.5 L31.5,10.5 L31.5,15.5 L26.5,15.5 L26.5,10.5 Z M17.5,21.5 L22.5,21.5 L22.5,26.5 L17.5,26.5 L17.5,21.5 Z M26.5,21.5 L31.5,21.5 L31.5,26.5 L26.5,26.5 L26.5,21.5 Z" id="Shape"/>
         </g>
     </g>
 </svg>

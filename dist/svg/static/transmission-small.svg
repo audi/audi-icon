@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>transmission-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1508.000000, -2202.000000)"></g>
-        <g id="transmission-small" stroke="#000000">
-            <path d="M22.5,5 L22.5,20 M15.5,5 L15.5,20 M8.5,5 L8.5,20 M1.5,5 L1.5,12.5 L22.5,12.5" id="Shape"></path>
+        <g id="briefing" transform="translate(-1508.000000, -2202.000000)"/>
+        <g id="transmission-small" stroke="currentColor">
+            <path d="M22.5,5 L22.5,20 M15.5,5 L15.5,20 M8.5,5 L8.5,20 M1.5,5 L1.5,12.5 L22.5,12.5" id="Shape"/>
         </g>
     </g>
 </svg>

@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>system-pause-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2372.000000, -1818.000000)"></g>
-        <g id="system-pause-small" stroke="#000000">
-            <path d="M9.5,7 L9.5,16 M13.5,7 L13.5,16" id="Shape" stroke-linejoin="round"></path>
-            <circle id="Oval" cx="11.5" cy="11.5" r="11"></circle>
+        <g id="briefing" transform="translate(-2372.000000, -1818.000000)"/>
+        <g id="system-pause-small" stroke="currentColor">
+            <path d="M9.5,7 L9.5,16 M13.5,7 L13.5,16" id="Shape" stroke-linejoin="round"/>
+            <circle id="Oval" cx="11.5" cy="11.5" r="11"/>
         </g>
     </g>
 </svg>

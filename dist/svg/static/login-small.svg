@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>login-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3524.000000, -922.000000)"></g>
-        <g id="login-small" stroke="#000000">
-            <path d="M14.8,10.5 C15.6,8.2 18.2,6.9 20.5,7.8 C22.3,8.4 23.5,10.1 23.5,12 C23.5,14.5 21.5,16.5 19,16.5 C17.1,16.5 15.4,15.3 14.8,13.5 L13.5,13.5 L11.6,14.6 L9.7,13.3 L7.7,14.6 L5.6,13.3 L3.7,14.6 L2.8,14.6 L0.8,12.5 L2.9,10.6 L14.8,10.6 L14.8,10.5 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(-3524.000000, -922.000000)"/>
+        <g id="login-small" stroke="currentColor">
+            <path d="M14.8,10.5 C15.6,8.2 18.2,6.9 20.5,7.8 C22.3,8.4 23.5,10.1 23.5,12 C23.5,14.5 21.5,16.5 19,16.5 C17.1,16.5 15.4,15.3 14.8,13.5 L13.5,13.5 L11.6,14.6 L9.7,13.3 L7.7,14.6 L5.6,13.3 L3.7,14.6 L2.8,14.6 L0.8,12.5 L2.9,10.6 L14.8,10.6 L14.8,10.5 Z" id="Shape"/>
         </g>
     </g>
 </svg>

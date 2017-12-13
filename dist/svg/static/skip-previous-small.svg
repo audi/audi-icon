@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>skip-previous-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1220.000000, -1690.000000)"></g>
-        <g id="skip-previous-small" stroke="#000000">
-            <path d="M4.5,19 L4.5,4 L4.5,19 Z M18.5,4.4 L8.1,11.4 L18.5,18.6 L18.5,4.4 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(-1220.000000, -1690.000000)"/>
+        <g id="skip-previous-small" stroke="currentColor">
+            <path d="M4.5,19 L4.5,4 L4.5,19 Z M18.5,4.4 L8.1,11.4 L18.5,18.6 L18.5,4.4 Z" id="Shape"/>
         </g>
     </g>
 </svg>

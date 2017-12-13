@@ -3,13 +3,13 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>main-user-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3812.000000, -922.000000)"></g>
-        <g id="main-user-small" stroke="#000000">
-            <path d="M19.1,11 C19.1,11 17.3,13.1 15,13.1 C15,20.6 19,22.9 19,22.9 C19,22.9 22.9,20.2 22.9,13.1 C20.8,13.1 19.1,11 19.1,11 Z" id="Shape"></path>
-            <path d="M13.5,10.5 L10.5,10.5 C9.4,10.5 8.5,9.6 8.5,8.5 L8.5,5.5 C8.5,4.4 9.4,3.5 10.5,3.5 L13.5,3.5 C14.6,3.5 15.5,4.4 15.5,5.5 L15.5,8.5 C15.5,9.6 14.6,10.5 13.5,10.5 Z" id="Shape"></path>
-            <path d="M15,21.5 L5.5,21.5 L5.5,15 C5.5,15 5.4,13.5 6.7,13.5 L12,13.5" id="Path"></path>
+        <g id="briefing" transform="translate(-3812.000000, -922.000000)"/>
+        <g id="main-user-small" stroke="currentColor">
+            <path d="M19.1,11 C19.1,11 17.3,13.1 15,13.1 C15,20.6 19,22.9 19,22.9 C19,22.9 22.9,20.2 22.9,13.1 C20.8,13.1 19.1,11 19.1,11 Z" id="Shape"/>
+            <path d="M13.5,10.5 L10.5,10.5 C9.4,10.5 8.5,9.6 8.5,8.5 L8.5,5.5 C8.5,4.4 9.4,3.5 10.5,3.5 L13.5,3.5 C14.6,3.5 15.5,4.4 15.5,5.5 L15.5,8.5 C15.5,9.6 14.6,10.5 13.5,10.5 Z" id="Shape"/>
+            <path d="M15,21.5 L5.5,21.5 L5.5,15 C5.5,15 5.4,13.5 6.7,13.5 L12,13.5" id="Path"/>
         </g>
     </g>
 </svg>

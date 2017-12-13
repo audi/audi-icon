@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>system-select-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-644.000000, -1946.000000)"></g>
-        <g id="system-select-small" stroke="#000000">
-            <polyline id="Shape" points="7.3 11.3 10.6 14.6 15.7 7.4"></polyline>
-            <circle id="Oval" cx="11.5" cy="11.5" r="11"></circle>
+        <g id="briefing" transform="translate(-644.000000, -1946.000000)"/>
+        <g id="system-select-small" stroke="currentColor">
+            <polyline id="Shape" points="7.3 11.3 10.6 14.6 15.7 7.4"/>
+            <circle id="Oval" cx="11.5" cy="11.5" r="11"/>
         </g>
     </g>
 </svg>

@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>system-add-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2372.000000, -1690.000000)"></g>
-        <g id="system-add-small" stroke="#000000">
-            <path d="M11.5,7 L11.5,16 M16,11.4 L7,11.4" id="Shape"></path>
-            <circle id="Oval" cx="11.5" cy="11.5" r="11"></circle>
+        <g id="briefing" transform="translate(-2372.000000, -1690.000000)"/>
+        <g id="system-add-small" stroke="currentColor">
+            <path d="M11.5,7 L11.5,16 M16,11.4 L7,11.4" id="Shape"/>
+            <circle id="Oval" cx="11.5" cy="11.5" r="11"/>
         </g>
     </g>
 </svg>

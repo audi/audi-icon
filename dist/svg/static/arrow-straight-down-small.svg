@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>arrow-straight-down-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1508.000000, -154.000000)"></g>
-        <g id="arrow-straight-down-small" stroke="#000000">
-            <path d="M16,18 L11.5,22.5 L7,18 M11.5,22.5 L11.5,0" id="Shape"></path>
+        <g id="briefing" transform="translate(-1508.000000, -154.000000)"/>
+        <g id="arrow-straight-down-small" stroke="currentColor">
+            <path d="M16,18 L11.5,22.5 L7,18 M11.5,22.5 L11.5,0" id="Shape"/>
         </g>
     </g>
 </svg>

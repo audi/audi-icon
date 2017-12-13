@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>parking-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2948.000000, -1178.000000)"></g>
-        <g id="parking-small" stroke="#000000">
-            <path d="M17.8,2.5 L1.5,2.5 L1.5,18.8 C1.5,20.8 3.2,22.5 5.2,22.5 L21.5,22.5 L21.5,6.2 C21.5,4.2 19.8,2.5 17.8,2.5 Z" id="Shape"></path>
-            <path d="M7.5,18 L7.5,7.5 L13,7.5 C13,7.5 15.5,7.5 15.5,10.5 C15.5,13.5 15.2,14.5 13,14.5 L7.5,14.5" id="Shape"></path>
+        <g id="briefing" transform="translate(-2948.000000, -1178.000000)"/>
+        <g id="parking-small" stroke="currentColor">
+            <path d="M17.8,2.5 L1.5,2.5 L1.5,18.8 C1.5,20.8 3.2,22.5 5.2,22.5 L21.5,22.5 L21.5,6.2 C21.5,4.2 19.8,2.5 17.8,2.5 Z" id="Shape"/>
+            <path d="M7.5,18 L7.5,7.5 L13,7.5 C13,7.5 15.5,7.5 15.5,10.5 C15.5,13.5 15.2,14.5 13,14.5 L7.5,14.5" id="Shape"/>
         </g>
     </g>
 </svg>

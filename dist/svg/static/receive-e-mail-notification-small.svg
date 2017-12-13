@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>receive-e-mail-notification-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2084.000000, -1434.000000)"></g>
-        <g id="receive-e-mail-notification-small" stroke="#000000">
-            <path d="M1.5,11 L1.5,21.5 C1.5,22.6 2.4,23.5 3.5,23.5 L22.5,23.5 L22.5,11" id="Shape"></path>
-            <path d="M5,13 L12,18.5 L19,13 M22,9 L12,2 L2,9" id="Shape"></path>
+        <g id="briefing" transform="translate(-2084.000000, -1434.000000)"/>
+        <g id="receive-e-mail-notification-small" stroke="currentColor">
+            <path d="M1.5,11 L1.5,21.5 C1.5,22.6 2.4,23.5 3.5,23.5 L22.5,23.5 L22.5,11" id="Shape"/>
+            <path d="M5,13 L12,18.5 L19,13 M22,9 L12,2 L2,9" id="Shape"/>
         </g>
     </g>
 </svg>

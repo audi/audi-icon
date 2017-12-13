@@ -3,15 +3,15 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>system-audio-off-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2660.000000, -1690.000000)"></g>
-        <g id="system-audio-off-small" stroke="#000000">
-            <path d="M5.5,9.5 L8.5,9.5 L8.5,13.5 L5.5,13.5 L5.5,9.5 Z M17.8,2.5 L3.7,19.3 L17.8,2.5 Z" id="Shape"></path>
-            <polyline id="Path" points="8.5 13.5 11.5 15.4 11.5 7.5 8.5 9.5"></polyline>
-            <path d="M14.1,10 C14.6,10.8 14.9,12.2 13.2,13.9" id="Path"></path>
-            <path d="M15.9,7.8 C16.9,8.9 19.1,12.2 15.5,15.6" id="Path"></path>
-            <circle id="Oval" cx="11.5" cy="11.5" r="11"></circle>
+        <g id="briefing" transform="translate(-2660.000000, -1690.000000)"/>
+        <g id="system-audio-off-small" stroke="currentColor">
+            <path d="M5.5,9.5 L8.5,9.5 L8.5,13.5 L5.5,13.5 L5.5,9.5 Z M17.8,2.5 L3.7,19.3 L17.8,2.5 Z" id="Shape"/>
+            <polyline id="Path" points="8.5 13.5 11.5 15.4 11.5 7.5 8.5 9.5"/>
+            <path d="M14.1,10 C14.6,10.8 14.9,12.2 13.2,13.9" id="Path"/>
+            <path d="M15.9,7.8 C16.9,8.9 19.1,12.2 15.5,15.6" id="Path"/>
+            <circle id="Oval" cx="11.5" cy="11.5" r="11"/>
         </g>
     </g>
 </svg>

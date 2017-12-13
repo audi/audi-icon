@@ -3,13 +3,13 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>lock-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2881.000000, -922.000000)"></g>
-        <g id="lock-large" stroke="#000000">
-            <path d="M22.5,37.5 L22.5,32.2 C21.1,31.5 20.2,29.9 20.6,28.2 C20.9,26.9 21.9,25.9 23.2,25.6 C25.5,25.1 27.5,26.8 27.5,29 C27.5,30.4 26.5,31.6 25.5,32.2 L25.5,37.5 L22.5,37.5 Z" id="Shape"></path>
-            <path d="M9.5,20.5 L9.5,16.5 C9.5,9.32029825 14.9447951,3.5 21.6612903,3.5 L26.3387097,3.5 C33.0552049,3.5 38.5,9.32029825 38.5,16.5 L38.5,20.5" id="Rectangle-4"></path>
-            <rect id="Rectangle-5" x="6.5" y="20.5" width="35" height="23"></rect>
+        <g id="briefing" transform="translate(-2881.000000, -922.000000)"/>
+        <g id="lock-large" stroke="currentColor">
+            <path d="M22.5,37.5 L22.5,32.2 C21.1,31.5 20.2,29.9 20.6,28.2 C20.9,26.9 21.9,25.9 23.2,25.6 C25.5,25.1 27.5,26.8 27.5,29 C27.5,30.4 26.5,31.6 25.5,32.2 L25.5,37.5 L22.5,37.5 Z" id="Shape"/>
+            <path d="M9.5,20.5 L9.5,16.5 C9.5,9.32029825 14.9447951,3.5 21.6612903,3.5 L26.3387097,3.5 C33.0552049,3.5 38.5,9.32029825 38.5,16.5 L38.5,20.5" id="Rectangle-4"/>
+            <rect id="Rectangle-5" x="6.5" y="20.5" width="35" height="23"/>
         </g>
     </g>
 </svg>

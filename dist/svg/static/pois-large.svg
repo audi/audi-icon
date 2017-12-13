@@ -3,14 +3,14 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>pois-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3168.000000, -1306.000000)"></g>
-        <g id="pois-large" stroke="#000000">
-            <circle id="Oval" cx="39.6" cy="28.1" r="3.1"></circle>
-            <path d="M33.1,32.6 C35,35.8 39.4,42 39.4,42 C39.4,42 46.5,32.2 46.5,28.4 C46.7,24.6 43.7,21.4 39.9,21.3 C39.7,21.3 39.6,21.3 39.4,21.3" id="Shape"></path>
-            <circle id="Oval" cx="22.5" cy="17.5" r="7"></circle>
-            <path d="M36.5,17.5 C36.5,9.8 30.2,3.5 22.5,3.5 C14.8,3.5 8.5,9.8 8.5,17.5 C8.5,25.2 22.5,44.5 22.5,44.5 C22.5,44.5 36.5,25.2 36.5,17.5 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(-3168.000000, -1306.000000)"/>
+        <g id="pois-large" stroke="currentColor">
+            <circle id="Oval" cx="39.6" cy="28.1" r="3.1"/>
+            <path d="M33.1,32.6 C35,35.8 39.4,42 39.4,42 C39.4,42 46.5,32.2 46.5,28.4 C46.7,24.6 43.7,21.4 39.9,21.3 C39.7,21.3 39.6,21.3 39.4,21.3" id="Shape"/>
+            <circle id="Oval" cx="22.5" cy="17.5" r="7"/>
+            <path d="M36.5,17.5 C36.5,9.8 30.2,3.5 22.5,3.5 C14.8,3.5 8.5,9.8 8.5,17.5 C8.5,25.2 22.5,44.5 22.5,44.5 C22.5,44.5 36.5,25.2 36.5,17.5 Z" id="Shape"/>
         </g>
     </g>
 </svg>

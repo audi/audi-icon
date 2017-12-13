@@ -3,15 +3,15 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>system-audio-on-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2948.000000, -1690.000000)"></g>
-        <g id="system-audio-on-small" stroke="#000000">
-            <polygon id="Shape" points="5.5 9.5 8.5 9.5 8.5 13.5 5.5 13.5"></polygon>
-            <polyline id="Path" points="8.5 13.5 11.5 15.4 11.5 7.5 8.5 9.5"></polyline>
-            <path d="M13.2,9.1 C13.2,9.1 16.2,10.9 13.2,13.9" id="Path"></path>
-            <path d="M15.5,7.4 C15.5,7.4 20,11.3 15.5,15.7" id="Path"></path>
-            <circle id="Oval" cx="11.5" cy="11.5" r="11"></circle>
+        <g id="briefing" transform="translate(-2948.000000, -1690.000000)"/>
+        <g id="system-audio-on-small" stroke="currentColor">
+            <polygon id="Shape" points="5.5 9.5 8.5 9.5 8.5 13.5 5.5 13.5"/>
+            <polyline id="Path" points="8.5 13.5 11.5 15.4 11.5 7.5 8.5 9.5"/>
+            <path d="M13.2,9.1 C13.2,9.1 16.2,10.9 13.2,13.9" id="Path"/>
+            <path d="M15.5,7.4 C15.5,7.4 20,11.3 15.5,15.7" id="Path"/>
+            <circle id="Oval" cx="11.5" cy="11.5" r="11"/>
         </g>
     </g>
 </svg>

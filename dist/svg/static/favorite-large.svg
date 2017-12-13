@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>favorite-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2880.000000, -538.000000)"></g>
-        <g id="favorite-large" stroke="#000000">
-            <polygon id="Shape" points="23.5 3 30.1 16.5 45 18.7 34.3 29.2 36.8 44 23.5 37 10.2 44 12.7 29.2 2 18.7 16.9 16.5"></polygon>
+        <g id="briefing" transform="translate(-2880.000000, -538.000000)"/>
+        <g id="favorite-large" stroke="currentColor">
+            <polygon id="Shape" points="23.5 3 30.1 16.5 45 18.7 34.3 29.2 36.8 44 23.5 37 10.2 44 12.7 29.2 2 18.7 16.9 16.5"/>
         </g>
     </g>
 </svg>

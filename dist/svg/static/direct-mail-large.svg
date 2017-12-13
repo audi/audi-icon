@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>direct-mail-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2592.000000, -410.000000)"></g>
-        <g id="direct-mail-large" stroke="#000000">
-            <path d="M45.5,39.5 L4.5,39.5 C3.4,39.5 2.5,38.6 2.5,37.5 L2.5,8.5 L43.5,8.5 C44.6,8.5 45.5,9.4 45.5,10.5 L45.5,39.5 Z" id="Shape"></path>
-            <polyline id="Shape" points="7 17 24 30 41 17"></polyline>
+        <g id="briefing" transform="translate(-2592.000000, -410.000000)"/>
+        <g id="direct-mail-large" stroke="currentColor">
+            <path d="M45.5,39.5 L4.5,39.5 C3.4,39.5 2.5,38.6 2.5,37.5 L2.5,8.5 L43.5,8.5 C44.6,8.5 45.5,9.4 45.5,10.5 L45.5,39.5 Z" id="Shape"/>
+            <polyline id="Shape" points="7 17 24 30 41 17"/>
         </g>
     </g>
 </svg>

@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>system-help-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-864.000000, -1818.000000)"></g>
-        <g id="system-help-large" stroke="#000000">
-            <path d="M22.5,29 L22.5,31 M20,17.4 C20,17.4 25.9,15 26.7,18.9 C27.2,21.6 22.5,25 22.5,25 L22.5,27" id="Shape"></path>
-            <circle id="Oval" cx="23.5" cy="23.5" r="22"></circle>
+        <g id="briefing" transform="translate(-864.000000, -1818.000000)"/>
+        <g id="system-help-large" stroke="currentColor">
+            <path d="M22.5,29 L22.5,31 M20,17.4 C20,17.4 25.9,15 26.7,18.9 C27.2,21.6 22.5,25 22.5,25 L22.5,27" id="Shape"/>
+            <circle id="Oval" cx="23.5" cy="23.5" r="22"/>
         </g>
     </g>
 </svg>

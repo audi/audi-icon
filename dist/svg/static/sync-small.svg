@@ -3,13 +3,13 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>sync-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2084.000000, -1690.000000)"></g>
-        <g id="sync-small" stroke="#000000">
-            <path d="M3.5,17.5 L16.8,17.5 C20,17.5 22.6,14.8 22.5,11.6 L22.5,11" id="Shape"></path>
-            <path d="M5.7,15.3 L3.5,17.5 L5.7,19.7 M20.5,7.5 L7.2,7.5 C4,7.5 1.4,10.2 1.5,13.4 L1.5,14" id="Shape"></path>
-            <polyline id="Shape" points="18.3 9.7 20.5 7.5 18.3 5.3"></polyline>
+        <g id="briefing" transform="translate(-2084.000000, -1690.000000)"/>
+        <g id="sync-small" stroke="currentColor">
+            <path d="M3.5,17.5 L16.8,17.5 C20,17.5 22.6,14.8 22.5,11.6 L22.5,11" id="Shape"/>
+            <path d="M5.7,15.3 L3.5,17.5 L5.7,19.7 M20.5,7.5 L7.2,7.5 C4,7.5 1.4,10.2 1.5,13.4 L1.5,14" id="Shape"/>
+            <polyline id="Shape" points="18.3 9.7 20.5 7.5 18.3 5.3"/>
         </g>
     </g>
 </svg>

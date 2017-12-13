@@ -3,20 +3,20 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>used-cars-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2880.000000, -2202.000000)"></g>
-        <g id="used-cars-large" stroke="#000000">
-            <path d="M39.6,38.7 C42.9,38.7 43.5,37.5 43.5,37.5 L43.5,32.4 L37.9,29.2 C37.9,29.2 35.6,27.4 30.2,27.4 C24.8,27.4 22.5,30.6 22.5,30.6 L16,32.8 C15.1,33 14.3,33.7 13.9,34.5 C13.6,35.3 13.5,36.2 13.6,37.1 L13.6,38.5 L17.7,38.5" id="Shape" stroke-linejoin="round"></path>
-            <path d="M23.2,38.5 L34.3,38.5" id="Shape"></path>
-            <circle id="Oval" cx="37" cy="37.7" r="2.8"></circle>
-            <circle id="Oval" cx="20.5" cy="37.7" r="2.8"></circle>
-            <path d="M32.3,24 L32.3,21.4 L26.7,18.2 C26.7,18.2 24.4,16.4 19,16.4 C13.6,16.4 11.3,19.6 11.3,19.6 L4.8,21.7 C3.9,21.9 3.1,22.6 2.8,23.4 C2.5,24.2 2.4,25.1 2.5,26 L2.5,27.4 L6.6,27.4" id="Shape" stroke-linejoin="round"></path>
-            <path d="M12.1,27.5 L20,27.5" id="Shape"></path>
-            <circle id="Oval" cx="9.3" cy="26.7" r="2.8"></circle>
-            <path d="M41.6,17.7 C44.9,17.7 45.5,16.5 45.5,16.5 L45.5,11.4 L39.9,8.2 C39.9,8.2 37.6,6.4 32.2,6.4 C26.8,6.4 24.5,9.6 24.5,9.6 L18,11.8" id="Shape" stroke-linejoin="round"></path>
-            <path d="M32,17.5 L36.3,17.5" id="Shape"></path>
-            <circle id="Oval" cx="39" cy="16.7" r="2.8"></circle>
+        <g id="briefing" transform="translate(-2880.000000, -2202.000000)"/>
+        <g id="used-cars-large" stroke="currentColor">
+            <path d="M39.6,38.7 C42.9,38.7 43.5,37.5 43.5,37.5 L43.5,32.4 L37.9,29.2 C37.9,29.2 35.6,27.4 30.2,27.4 C24.8,27.4 22.5,30.6 22.5,30.6 L16,32.8 C15.1,33 14.3,33.7 13.9,34.5 C13.6,35.3 13.5,36.2 13.6,37.1 L13.6,38.5 L17.7,38.5" id="Shape" stroke-linejoin="round"/>
+            <path d="M23.2,38.5 L34.3,38.5" id="Shape"/>
+            <circle id="Oval" cx="37" cy="37.7" r="2.8"/>
+            <circle id="Oval" cx="20.5" cy="37.7" r="2.8"/>
+            <path d="M32.3,24 L32.3,21.4 L26.7,18.2 C26.7,18.2 24.4,16.4 19,16.4 C13.6,16.4 11.3,19.6 11.3,19.6 L4.8,21.7 C3.9,21.9 3.1,22.6 2.8,23.4 C2.5,24.2 2.4,25.1 2.5,26 L2.5,27.4 L6.6,27.4" id="Shape" stroke-linejoin="round"/>
+            <path d="M12.1,27.5 L20,27.5" id="Shape"/>
+            <circle id="Oval" cx="9.3" cy="26.7" r="2.8"/>
+            <path d="M41.6,17.7 C44.9,17.7 45.5,16.5 45.5,16.5 L45.5,11.4 L39.9,8.2 C39.9,8.2 37.6,6.4 32.2,6.4 C26.8,6.4 24.5,9.6 24.5,9.6 L18,11.8" id="Shape" stroke-linejoin="round"/>
+            <path d="M32,17.5 L36.3,17.5" id="Shape"/>
+            <circle id="Oval" cx="39" cy="16.7" r="2.8"/>
         </g>
     </g>
 </svg>

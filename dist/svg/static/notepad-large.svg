@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>notepad-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2880.000000, -1050.000000)"></g>
-        <g id="notepad-large" stroke="#000000">
-            <path d="M16,26.5 L33,26.5 L16,26.5 Z M24.5,18 L24.5,35 L24.5,18 Z M41.5,13 L41.5,45.5 L7.5,45.5 L7.5,2.5 L31,2.5 L41.5,13 Z" id="Shape"></path>
-            <polyline id="Shape" points="30.5 2.5 30.5 13.5 41.5 13.5"></polyline>
+        <g id="briefing" transform="translate(-2880.000000, -1050.000000)"/>
+        <g id="notepad-large" stroke="currentColor">
+            <path d="M16,26.5 L33,26.5 L16,26.5 Z M24.5,18 L24.5,35 L24.5,18 Z M41.5,13 L41.5,45.5 L7.5,45.5 L7.5,2.5 L31,2.5 L41.5,13 Z" id="Shape"/>
+            <polyline id="Shape" points="30.5 2.5 30.5 13.5 41.5 13.5"/>
         </g>
     </g>
 </svg>

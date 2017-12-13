@@ -3,14 +3,14 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>news-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2016.000000, -1050.000000)"></g>
-        <g id="news-large" stroke="#000000">
-            <polygon id="Shape" points="2.5 17.5 2.5 37.5 34.5 37.5 34.5 9.5 10.5 9.5"></polygon>
-            <polyline id="Path" points="39.2 18.5 45.1 18.5 34.5 37.5"></polyline>
-            <polyline id="Path" points="34.5 14.5 40.2 14.5 34.5 37.5"></polyline>
-            <path d="M10.5,9.5 L10.5,17.5 L2.5,17.5 M7,30.5 L30,30.5 M7,24.5 L30,24.5" id="Shape"></path>
+        <g id="briefing" transform="translate(-2016.000000, -1050.000000)"/>
+        <g id="news-large" stroke="currentColor">
+            <polygon id="Shape" points="2.5 17.5 2.5 37.5 34.5 37.5 34.5 9.5 10.5 9.5"/>
+            <polyline id="Path" points="39.2 18.5 45.1 18.5 34.5 37.5"/>
+            <polyline id="Path" points="34.5 14.5 40.2 14.5 34.5 37.5"/>
+            <path d="M10.5,9.5 L10.5,17.5 L2.5,17.5 M7,30.5 L30,30.5 M7,24.5 L30,24.5" id="Shape"/>
         </g>
     </g>
 </svg>

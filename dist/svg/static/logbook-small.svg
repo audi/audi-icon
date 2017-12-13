@@ -3,13 +3,13 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>logbook-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3236.000000, -922.000000)"></g>
-        <g id="logbook-small" stroke="#000000">
-            <circle id="Oval" cx="13.5" cy="11.5" r="1.7"></circle>
-            <path d="M13.5,13.2 L13.5,16.5 L13.5,13.2 Z M19.4,11.5 L15.2,11.5 L19.4,11.5 Z M11.8,11.5 L7.6,11.5 L11.8,11.5 Z M16.7,16.5 C18.4,15.4 19.5,13.6 19.5,11.5 C19.5,8.2 16.8,5.5 13.5,5.5 C10.2,5.5 7.5,8.2 7.5,11.5 C7.5,13.5 8.6,15.4 10.3,16.5 L16.7,16.5 Z" id="Shape"></path>
-            <path d="M1,18.5 L6,18.5 L1,18.5 Z M1,5.5 L6,5.5 L1,5.5 Z M22.5,21.5 C22.5,22.1 22.1,22.5 21.5,22.5 L3.5,22.5 L3.5,1.5 L21.5,1.5 C22.1,1.5 22.5,1.9 22.5,2.5 L22.5,21.5 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(-3236.000000, -922.000000)"/>
+        <g id="logbook-small" stroke="currentColor">
+            <circle id="Oval" cx="13.5" cy="11.5" r="1.7"/>
+            <path d="M13.5,13.2 L13.5,16.5 L13.5,13.2 Z M19.4,11.5 L15.2,11.5 L19.4,11.5 Z M11.8,11.5 L7.6,11.5 L11.8,11.5 Z M16.7,16.5 C18.4,15.4 19.5,13.6 19.5,11.5 C19.5,8.2 16.8,5.5 13.5,5.5 C10.2,5.5 7.5,8.2 7.5,11.5 C7.5,13.5 8.6,15.4 10.3,16.5 L16.7,16.5 Z" id="Shape"/>
+            <path d="M1,18.5 L6,18.5 L1,18.5 Z M1,5.5 L6,5.5 L1,5.5 Z M22.5,21.5 C22.5,22.1 22.1,22.5 21.5,22.5 L3.5,22.5 L3.5,1.5 L21.5,1.5 C22.1,1.5 22.5,1.9 22.5,2.5 L22.5,21.5 Z" id="Shape"/>
         </g>
     </g>
 </svg>

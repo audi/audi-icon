@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>editorial-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(0.000000, -538.000000)"></g>
-        <g id="editorial-large" stroke="#000000">
-            <path d="M11,32.5 L37,32.5 L11,32.5 Z M11,28.5 L37,28.5 L11,28.5 Z M11,24.5 L37,24.5 L11,24.5 Z M23,20.5 L37,20.5 L23,20.5 Z M23,16.5 L37,16.5 L23,16.5 Z M23,12.6 L37,12.6 L23,12.6 Z M11.5,12.5 L20.5,12.5 L20.5,20.5 L11.5,20.5 L11.5,12.5 Z" id="Shape"></path>
-            <path d="M41.5,6.5 C41.5,4.8 40.2,3.5 38.5,3.5 L6.5,3.5 L6.5,40.5 C6.5,42.2 7.8,43.5 9.5,43.5 L41.5,43.5 L41.5,6.5 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(0.000000, -538.000000)"/>
+        <g id="editorial-large" stroke="currentColor">
+            <path d="M11,32.5 L37,32.5 L11,32.5 Z M11,28.5 L37,28.5 L11,28.5 Z M11,24.5 L37,24.5 L11,24.5 Z M23,20.5 L37,20.5 L23,20.5 Z M23,16.5 L37,16.5 L23,16.5 Z M23,12.6 L37,12.6 L23,12.6 Z M11.5,12.5 L20.5,12.5 L20.5,20.5 L11.5,20.5 L11.5,12.5 Z" id="Shape"/>
+            <path d="M41.5,6.5 C41.5,4.8 40.2,3.5 38.5,3.5 L6.5,3.5 L6.5,40.5 C6.5,42.2 7.8,43.5 9.5,43.5 L41.5,43.5 L41.5,6.5 Z" id="Shape"/>
         </g>
     </g>
 </svg>

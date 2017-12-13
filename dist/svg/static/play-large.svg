@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>play-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-288.000000, -1306.000000)"></g>
-        <g id="play-large" fill-rule="nonzero" stroke="#000000">
-            <path d="M13.5,9.3 L34.4,23.3 L13.5,37.7 C13.5,37.7 13.5,9.3 13.5,9.3 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(-288.000000, -1306.000000)"/>
+        <g id="play-large" fill-rule="nonzero" stroke="currentColor">
+            <path d="M13.5,9.3 L34.4,23.3 L13.5,37.7 C13.5,37.7 13.5,9.3 13.5,9.3 Z" id="Shape"/>
         </g>
     </g>
 </svg>

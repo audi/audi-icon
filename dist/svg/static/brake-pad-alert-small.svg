@@ -3,13 +3,13 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>brake-pad-alert-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3812.000000, -154.000000)"></g>
-        <g id="brake-pad-alert-small" stroke="#000000">
-            <path d="M20.5,14.5 C20.4,19.4 16.4,23.4 11.5,23.5 C6.6,23.4 2.6,19.4 2.5,14.5 M10.5,8.4 C7.7,9.2 5.7,11.6 5.5,14.5 L0.5,14.5 C0.6,8.4 5.4,3.6 11.5,3.5 L11.5,7 M13.6,14.4 C13.7,15.6 12.8,16.5 11.7,16.6 C10.6,16.7 9.6,15.8 9.5,14.7 C9.5,14.6 9.5,14.5 9.5,14.4" id="Shape" stroke-linejoin="round"></path>
-            <path d="M17.5,5 L17.5,8 M17.5,9 L17.5,11" id="Shape" stroke-linejoin="round"></path>
-            <polygon id="Shape" points="23.2 12.5 11.8 12.5 17.5 1"></polygon>
+        <g id="briefing" transform="translate(-3812.000000, -154.000000)"/>
+        <g id="brake-pad-alert-small" stroke="currentColor">
+            <path d="M20.5,14.5 C20.4,19.4 16.4,23.4 11.5,23.5 C6.6,23.4 2.6,19.4 2.5,14.5 M10.5,8.4 C7.7,9.2 5.7,11.6 5.5,14.5 L0.5,14.5 C0.6,8.4 5.4,3.6 11.5,3.5 L11.5,7 M13.6,14.4 C13.7,15.6 12.8,16.5 11.7,16.6 C10.6,16.7 9.6,15.8 9.5,14.7 C9.5,14.6 9.5,14.5 9.5,14.4" id="Shape" stroke-linejoin="round"/>
+            <path d="M17.5,5 L17.5,8 M17.5,9 L17.5,11" id="Shape" stroke-linejoin="round"/>
+            <polygon id="Shape" points="23.2 12.5 11.8 12.5 17.5 1"/>
         </g>
     </g>
 </svg>

@@ -3,14 +3,14 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>mobile-phone-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-288.000000, -1050.000000)"></g>
-        <g id="mobile-phone-large" stroke="#000000">
-            <path d="M14.5,3.5 L33.5,3.5 C34.6,3.5 35.5,4.4 35.5,5.5 L35.5,42.5 C35.5,43.6 34.6,44.5 33.5,44.5 L14.5,44.5 C13.4,44.5 12.5,43.6 12.5,42.5 L12.5,5.5 C12.5,4.4 13.4,3.5 14.5,3.5 Z" id="Shape"></path>
-            <path d="M12.5,38.5 L35.5,38.5" id="Shape"></path>
-            <circle id="Oval" cx="24" cy="41.5" r="1"></circle>
-            <path d="M21,7.5 L27,7.5" id="Shape"></path>
+        <g id="briefing" transform="translate(-288.000000, -1050.000000)"/>
+        <g id="mobile-phone-large" stroke="currentColor">
+            <path d="M14.5,3.5 L33.5,3.5 C34.6,3.5 35.5,4.4 35.5,5.5 L35.5,42.5 C35.5,43.6 34.6,44.5 33.5,44.5 L14.5,44.5 C13.4,44.5 12.5,43.6 12.5,42.5 L12.5,5.5 C12.5,4.4 13.4,3.5 14.5,3.5 Z" id="Shape"/>
+            <path d="M12.5,38.5 L35.5,38.5" id="Shape"/>
+            <circle id="Oval" cx="24" cy="41.5" r="1"/>
+            <path d="M21,7.5 L27,7.5" id="Shape"/>
         </g>
     </g>
 </svg>

@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>time-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3236.000000, -2074.000000)"></g>
-        <g id="time-small" stroke="#000000">
-            <path d="M22.5,12.5 C22.5,18.6 17.6,23.5 11.5,23.5 C5.4,23.5 0.5,18.6 0.5,12.5 C0.5,6.4 5.4,1.5 11.5,1.5 C17.6,1.5 22.5,6.4 22.5,12.5 Z M11.5,13 L11.5,5 L11.5,13 Z M16,12.5 L11.5,12.5 L16,12.5 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(-3236.000000, -2074.000000)"/>
+        <g id="time-small" stroke="currentColor">
+            <path d="M22.5,12.5 C22.5,18.6 17.6,23.5 11.5,23.5 C5.4,23.5 0.5,18.6 0.5,12.5 C0.5,6.4 5.4,1.5 11.5,1.5 C17.6,1.5 22.5,6.4 22.5,12.5 Z M11.5,13 L11.5,5 L11.5,13 Z M16,12.5 L11.5,12.5 L16,12.5 Z" id="Shape"/>
         </g>
     </g>
 </svg>

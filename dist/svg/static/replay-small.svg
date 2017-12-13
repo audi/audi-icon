@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>replay-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2660.000000, -1434.000000)"></g>
-        <g id="replay-small" stroke="#000000">
-            <path d="M3.5,15.5 C5.7,19.9 11.1,21.7 15.6,19.5 C20.1,17.3 21.8,11.9 19.6,7.4 C18.1,4.3 15,2.4 11.5,2.4 C7.2,2.4 4.1,5.9 3.2,9.4" id="Shape"></path>
-            <polyline id="Shape" points="9.5 9.5 2.5 9.5 2.5 2.5"></polyline>
+        <g id="briefing" transform="translate(-2660.000000, -1434.000000)"/>
+        <g id="replay-small" stroke="currentColor">
+            <path d="M3.5,15.5 C5.7,19.9 11.1,21.7 15.6,19.5 C20.1,17.3 21.8,11.9 19.6,7.4 C18.1,4.3 15,2.4 11.5,2.4 C7.2,2.4 4.1,5.9 3.2,9.4" id="Shape"/>
+            <polyline id="Shape" points="9.5 9.5 2.5 9.5 2.5 2.5"/>
         </g>
     </g>
 </svg>

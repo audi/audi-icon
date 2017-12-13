@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>indicators-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3236.000000, -794.000000)"></g>
-        <g id="indicators-small" stroke="#000000">
-            <path d="M13.5,13.5 L13.5,9.5 L17.5,9.5 L17.5,5.5 L23.3,11.5 L17.5,17.5 L17.5,13.5 L13.5,13.5 Z M10.5,13.5 L10.5,9.5 L6.5,9.5 L6.5,5.5 L0.7,11.5 L6.5,17.5 L6.5,13.5 L10.5,13.5 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(-3236.000000, -794.000000)"/>
+        <g id="indicators-small" stroke="currentColor">
+            <path d="M13.5,13.5 L13.5,9.5 L17.5,9.5 L17.5,5.5 L23.3,11.5 L17.5,17.5 L17.5,13.5 L13.5,13.5 Z M10.5,13.5 L10.5,9.5 L6.5,9.5 L6.5,5.5 L0.7,11.5 L6.5,17.5 L6.5,13.5 L10.5,13.5 Z" id="Shape"/>
         </g>
     </g>
 </svg>

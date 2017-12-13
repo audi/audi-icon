@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>system-play-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3168.000000, -1818.000000)"></g>
-        <g id="system-play-large" stroke="#000000">
-            <polygon id="Shape" stroke-linejoin="round" points="19.5 16.4 29.9 23.4 19.5 30.6"></polygon>
-            <circle id="Oval" cx="23.5" cy="23.5" r="22"></circle>
+        <g id="briefing" transform="translate(-3168.000000, -1818.000000)"/>
+        <g id="system-play-large" stroke="currentColor">
+            <polygon id="Shape" stroke-linejoin="round" points="19.5 16.4 29.9 23.4 19.5 30.6"/>
+            <circle id="Oval" cx="23.5" cy="23.5" r="22"/>
         </g>
     </g>
 </svg>

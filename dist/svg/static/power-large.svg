@@ -3,13 +3,13 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>power-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3744.000000, -1306.000000)"></g>
-        <g id="power-large" stroke="#000000">
-            <path d="M26.3,26.5 L34.8,29.6" id="Shape"></path>
-            <circle id="Oval" cx="23.5" cy="25.5" r="3"></circle>
-            <path d="M37,25.5 L41.5,25.5 M33,16 L36.2,12.8 M23.5,12 L23.5,7.5 M14,16 L10.8,12.8 M5.5,25.5 L10,25.5 M14,35 L10.8,38.2 C7.4,34.8 5.5,30.2 5.5,25.5 C5.5,15.6 13.6,7.5 23.5,7.5 C33.4,7.5 41.5,15.6 41.5,25.5 C41.5,30.5 39.5,35 36.2,38.2 L33,35" id="Shape"></path>
+        <g id="briefing" transform="translate(-3744.000000, -1306.000000)"/>
+        <g id="power-large" stroke="currentColor">
+            <path d="M26.3,26.5 L34.8,29.6" id="Shape"/>
+            <circle id="Oval" cx="23.5" cy="25.5" r="3"/>
+            <path d="M37,25.5 L41.5,25.5 M33,16 L36.2,12.8 M23.5,12 L23.5,7.5 M14,16 L10.8,12.8 M5.5,25.5 L10,25.5 M14,35 L10.8,38.2 C7.4,34.8 5.5,30.2 5.5,25.5 C5.5,15.6 13.6,7.5 23.5,7.5 C33.4,7.5 41.5,15.6 41.5,25.5 C41.5,30.5 39.5,35 36.2,38.2 L33,35" id="Shape"/>
         </g>
     </g>
 </svg>

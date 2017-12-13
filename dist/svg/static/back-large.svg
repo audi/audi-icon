@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>back-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2880.000000, -154.000000)"></g>
-        <g id="back-large" stroke="#000000">
-            <polyline id="Shape" points="28.6 14.4 19.5 23.5 28.6 32.6"></polyline>
+        <g id="briefing" transform="translate(-2880.000000, -154.000000)"/>
+        <g id="back-large" stroke="currentColor">
+            <polyline id="Shape" points="28.6 14.4 19.5 23.5 28.6 32.6"/>
         </g>
     </g>
 </svg>

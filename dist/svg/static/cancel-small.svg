@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>cancel-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1220.000000, -282.000000)"></g>
-        <g id="cancel-small" stroke="#000000">
-            <path d="M5.9,17.1 L17.1,5.9 M5.9,5.9 L17.1,17.1" id="Shape"></path>
+        <g id="briefing" transform="translate(-1220.000000, -282.000000)"/>
+        <g id="cancel-small" stroke="currentColor">
+            <path d="M5.9,17.1 L17.1,5.9 M5.9,5.9 L17.1,17.1" id="Shape"/>
         </g>
     </g>
 </svg>

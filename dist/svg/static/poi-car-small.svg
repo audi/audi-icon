@@ -3,12 +3,12 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>poi-car-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-932.000000, -1306.000000)"></g>
-        <g id="poi-car-small" stroke="#000000">
-            <path d="M18.7,8.6 C18.7,4.6 15.4,1.3 11.5,1.3 C7.6,1.3 4.3,4.6 4.3,8.6 C4.3,12.6 11.5,22.7 11.5,22.7 C11.5,22.7 18.7,12.6 18.7,8.6 Z" id="Shape"></path>
-            <path d="M14,4.5 L16.7,6.9 L16.7,9.8 C16.7,10 16.6,10.8 16.4,10.8 L15.1,10.8 C14.9,10.8 14.8,10.1 14.8,9.8 L14.8,9.5 L8.3,9.5 L8.3,9.7 C8.3,9.9 8.2,10.7 8,10.7 L6.6,10.7 C6.4,10.7 6.3,10 6.3,9.7 L6.3,6.9 L9,4.5 L14,4.5 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(-932.000000, -1306.000000)"/>
+        <g id="poi-car-small" stroke="currentColor">
+            <path d="M18.7,8.6 C18.7,4.6 15.4,1.3 11.5,1.3 C7.6,1.3 4.3,4.6 4.3,8.6 C4.3,12.6 11.5,22.7 11.5,22.7 C11.5,22.7 18.7,12.6 18.7,8.6 Z" id="Shape"/>
+            <path d="M14,4.5 L16.7,6.9 L16.7,9.8 C16.7,10 16.6,10.8 16.4,10.8 L15.1,10.8 C14.9,10.8 14.8,10.1 14.8,9.8 L14.8,9.5 L8.3,9.5 L8.3,9.7 C8.3,9.9 8.2,10.7 8,10.7 L6.6,10.7 C6.4,10.7 6.3,10 6.3,9.7 L6.3,6.9 L9,4.5 L14,4.5 Z" id="Shape"/>
         </g>
     </g>
 </svg>

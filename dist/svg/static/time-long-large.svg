@@ -3,13 +3,13 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>time-long-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2592.000000, -2074.000000)"></g>
-        <g id="time-long-large" stroke="#000000">
-            <circle id="Oval" cx="23.5" cy="23.5" r="3"></circle>
-            <path d="M25.6,21.4 L31.5,14.5 M1,27 L5.5,22.5 L10,27" id="Shape"></path>
-            <path d="M23,41.5 C13.1,41.2 5.2,32.9 5.5,23 L5.5,22.5 M23.5,5.5 C33.4,5.5 41.5,13.6 41.5,23.5 C41.5,33.4 33.4,41.5 23.5,41.5 L23,41.5 M7,14 L9,16 M14.5,7.5 L16,10" id="Shape"></path>
+        <g id="briefing" transform="translate(-2592.000000, -2074.000000)"/>
+        <g id="time-long-large" stroke="currentColor">
+            <circle id="Oval" cx="23.5" cy="23.5" r="3"/>
+            <path d="M25.6,21.4 L31.5,14.5 M1,27 L5.5,22.5 L10,27" id="Shape"/>
+            <path d="M23,41.5 C13.1,41.2 5.2,32.9 5.5,23 L5.5,22.5 M23.5,5.5 C33.4,5.5 41.5,13.6 41.5,23.5 C41.5,33.4 33.4,41.5 23.5,41.5 L23,41.5 M7,14 L9,16 M14.5,7.5 L16,10" id="Shape"/>
         </g>
     </g>
 </svg>

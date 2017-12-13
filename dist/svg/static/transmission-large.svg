@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>transmission-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1440.000000, -2202.000000)"></g>
-        <g id="transmission-large" stroke="#000000">
-            <path d="M37.5,13 L37.5,36 M28.5,13 L28.5,36 M19.5,13 L19.5,36 M10.5,13 L10.5,24.5 L37.5,24.5" id="Shape"></path>
+        <g id="briefing" transform="translate(-1440.000000, -2202.000000)"/>
+        <g id="transmission-large" stroke="currentColor">
+            <path d="M37.5,13 L37.5,36 M28.5,13 L28.5,36 M19.5,13 L19.5,36 M10.5,13 L10.5,24.5 L37.5,24.5" id="Shape"/>
         </g>
     </g>
 </svg>

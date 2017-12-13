@@ -3,11 +3,11 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>dashboard-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1508.000000, -410.000000)"></g>
-        <g id="dashboard-small" stroke="#000000">
-            <path d="M18.5,18.5 L23.5,18.5 L23.5,23.5 L18.5,23.5 L18.5,18.5 Z M9.5,18.5 L14.5,18.5 L14.5,23.5 L9.5,23.5 L9.5,18.5 Z M0.5,18.5 L5.5,18.5 L5.5,23.5 L0.5,23.5 L0.5,18.5 Z M18.5,9.5 L23.5,9.5 L23.5,14.5 L18.5,14.5 L18.5,9.5 Z M9.5,9.5 L14.5,9.5 L14.5,14.5 L9.5,14.5 L9.5,9.5 Z M0.5,9.5 L5.5,9.5 L5.5,14.5 L0.5,14.5 L0.5,9.5 Z M18.5,0.5 L23.5,0.5 L23.5,5.5 L18.5,5.5 L18.5,0.5 Z M9.5,0.5 L14.5,0.5 L14.5,5.5 L9.5,5.5 L9.5,0.5 Z M0.5,0.5 L5.5,0.5 L5.5,5.5 L0.5,5.5 L0.5,0.5 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(-1508.000000, -410.000000)"/>
+        <g id="dashboard-small" stroke="currentColor">
+            <path d="M18.5,18.5 L23.5,18.5 L23.5,23.5 L18.5,23.5 L18.5,18.5 Z M9.5,18.5 L14.5,18.5 L14.5,23.5 L9.5,23.5 L9.5,18.5 Z M0.5,18.5 L5.5,18.5 L5.5,23.5 L0.5,23.5 L0.5,18.5 Z M18.5,9.5 L23.5,9.5 L23.5,14.5 L18.5,14.5 L18.5,9.5 Z M9.5,9.5 L14.5,9.5 L14.5,14.5 L9.5,14.5 L9.5,9.5 Z M0.5,9.5 L5.5,9.5 L5.5,14.5 L0.5,14.5 L0.5,9.5 Z M18.5,0.5 L23.5,0.5 L23.5,5.5 L18.5,5.5 L18.5,0.5 Z M9.5,0.5 L14.5,0.5 L14.5,5.5 L9.5,5.5 L9.5,0.5 Z M0.5,0.5 L5.5,0.5 L5.5,5.5 L0.5,5.5 L0.5,0.5 Z" id="Shape"/>
         </g>
     </g>
 </svg>

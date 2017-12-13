@@ -3,15 +3,15 @@
     <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>anti-theft-alarm-system-alert-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1440.000000, -26.000000)"></g>
-        <g id="anti-theft-alarm-system-alert-large" stroke="#000000">
-            <path d="M12.5,36.5 L36.5,36.5 C37.1,36.5 37.5,36.9 37.5,37.5 L37.5,41.5 C37.5,42.1 37.1,42.5 36.5,42.5 L12.5,42.5 C11.9,42.5 11.5,42.1 11.5,41.5 L11.5,37.5 C11.5,36.9 11.9,36.5 12.5,36.5 Z M32.5,24.5 L34.4,36.5 L32.5,24.5 Z" id="Shape"></path>
-            <path d="M14.9,36.5 L18.7,16.5 C18.7,15.9 19,15.5 19.5,15.5 L26,15.5" id="Path"></path>
-            <path d="M24.5,2 L24.5,12 M16,14 L9,7 M4,23.5 L14,23.5" id="Shape"></path>
-            <path d="M35.5,9 L35.5,15 M35.5,17 L35.5,19" id="Shape" stroke-linejoin="round"></path>
-            <polygon id="Shape" points="45.5 21.5 25.5 21.5 35.5 3.5"></polygon>
+        <g id="briefing" transform="translate(-1440.000000, -26.000000)"/>
+        <g id="anti-theft-alarm-system-alert-large" stroke="currentColor">
+            <path d="M12.5,36.5 L36.5,36.5 C37.1,36.5 37.5,36.9 37.5,37.5 L37.5,41.5 C37.5,42.1 37.1,42.5 36.5,42.5 L12.5,42.5 C11.9,42.5 11.5,42.1 11.5,41.5 L11.5,37.5 C11.5,36.9 11.9,36.5 12.5,36.5 Z M32.5,24.5 L34.4,36.5 L32.5,24.5 Z" id="Shape"/>
+            <path d="M14.9,36.5 L18.7,16.5 C18.7,15.9 19,15.5 19.5,15.5 L26,15.5" id="Path"/>
+            <path d="M24.5,2 L24.5,12 M16,14 L9,7 M4,23.5 L14,23.5" id="Shape"/>
+            <path d="M35.5,9 L35.5,15 M35.5,17 L35.5,19" id="Shape" stroke-linejoin="round"/>
+            <polygon id="Shape" points="45.5 21.5 25.5 21.5 35.5 3.5"/>
         </g>
     </g>
 </svg>
