@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>system-settings-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-864.000000, -1946.000000)"></g>
-        <g id="system-settings-large" stroke="#000000">
-            <path d="M25.1,14.5 L25.1,17.2 C25.7,17.4 26.3,17.6 26.8,17.9 L28.7,16 L31,18.3 L29.1,20.2 C29.4,20.7 29.6,21.3 29.8,21.9 L32.5,21.9 L32.5,25.2 L29.8,25.2 C29.6,25.8 29.4,26.4 29.1,26.9 L31,28.8 L28.7,31 L26.8,29.1 C26.3,29.4 25.7,29.6 25.1,29.8 L25.1,32.5 L21.8,32.5 L21.8,29.8 C21.2,29.6 20.6,29.4 20.1,29.1 L18.3,31 L16,28.7 L17.9,26.8 C17.6,26.3 17.4,25.7 17.2,25.1 L14.5,25.1 L14.5,21.8 L17.2,21.8 C17.4,21.2 17.6,20.6 17.9,20.1 L16,18.3 L18.3,16 L20.2,17.9 C20.7,17.6 21.3,17.4 21.9,17.2 L21.9,14.5 L25.1,14.5 Z" id="Shape"></path>
-            <path d="M23.5,20 C25.4,20 27,21.6 27,23.5 C27,25.4 25.4,27 23.5,27 C21.6,27 20,25.4 20,23.5 C20,21.6 21.6,20 23.5,20" id="Shape"></path>
-            <circle id="Oval" cx="23.5" cy="23.5" r="22"></circle>
+        <g id="briefing" transform="translate(-864.000000, -1946.000000)"/>
+        <g id="system-settings-large" stroke="currentColor">
+            <path d="M25.1,14.5 L25.1,17.2 C25.7,17.4 26.3,17.6 26.8,17.9 L28.7,16 L31,18.3 L29.1,20.2 C29.4,20.7 29.6,21.3 29.8,21.9 L32.5,21.9 L32.5,25.2 L29.8,25.2 C29.6,25.8 29.4,26.4 29.1,26.9 L31,28.8 L28.7,31 L26.8,29.1 C26.3,29.4 25.7,29.6 25.1,29.8 L25.1,32.5 L21.8,32.5 L21.8,29.8 C21.2,29.6 20.6,29.4 20.1,29.1 L18.3,31 L16,28.7 L17.9,26.8 C17.6,26.3 17.4,25.7 17.2,25.1 L14.5,25.1 L14.5,21.8 L17.2,21.8 C17.4,21.2 17.6,20.6 17.9,20.1 L16,18.3 L18.3,16 L20.2,17.9 C20.7,17.6 21.3,17.4 21.9,17.2 L21.9,14.5 L25.1,14.5 Z" id="Shape"/>
+            <path d="M23.5,20 C25.4,20 27,21.6 27,23.5 C27,25.4 25.4,27 23.5,27 C21.6,27 20,25.4 20,23.5 C20,21.6 21.6,20 23.5,20" id="Shape"/>
+            <circle id="Oval" cx="23.5" cy="23.5" r="22"/>
         </g>
     </g>
 </svg>

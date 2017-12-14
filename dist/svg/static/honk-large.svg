@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>honk-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2304.000000, -794.000000)"></g>
-        <g id="honk-large" stroke="#000000">
-            <path d="M24,25.5 L30.5,25.5 C30.5,25.5 41.5,25.6 41.5,37.5 L44.5,37.5 L44.5,9.5 L41.5,9.5 C41.5,9.5 41.4,21.5 30.5,21.5 L12,21.5 C12,21.5 5.1,20.4 3.5,18 L3.5,29 C3.5,29 6.6,25.5 12,25.5 L19,25.5" id="Shape"></path>
-            <path d="M18.5,25.5 C14,26.1 10.7,28.3 10.5,31 C10.2,34.6 15.3,38 22,38.5 C28.7,39 34.2,36.6 34.5,33 C34.8,29.7 30.5,26.4 24.5,25.5" id="Shape"></path>
-            <path d="M14.2,31.3 C14.1,33.3 17.4,35.2 22,35.5 C26.6,35.8 30.7,34.6 30.8,32.6 C30.9,30.6 27.6,28.8 23,28.5 C18.4,28.2 14.3,29.3 14.2,31.3 Z" id="Shape" stroke-linecap="round"></path>
+        <g id="briefing" transform="translate(-2304.000000, -794.000000)"/>
+        <g id="honk-large" stroke="currentColor">
+            <path d="M24,25.5 L30.5,25.5 C30.5,25.5 41.5,25.6 41.5,37.5 L44.5,37.5 L44.5,9.5 L41.5,9.5 C41.5,9.5 41.4,21.5 30.5,21.5 L12,21.5 C12,21.5 5.1,20.4 3.5,18 L3.5,29 C3.5,29 6.6,25.5 12,25.5 L19,25.5" id="Shape"/>
+            <path d="M18.5,25.5 C14,26.1 10.7,28.3 10.5,31 C10.2,34.6 15.3,38 22,38.5 C28.7,39 34.2,36.6 34.5,33 C34.8,29.7 30.5,26.4 24.5,25.5" id="Shape"/>
+            <path d="M14.2,31.3 C14.1,33.3 17.4,35.2 22,35.5 C26.6,35.8 30.7,34.6 30.8,32.6 C30.9,30.6 27.6,28.8 23,28.5 C18.4,28.2 14.3,29.3 14.2,31.3 Z" id="Shape" stroke-linecap="round"/>
         </g>
     </g>
 </svg>

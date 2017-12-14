@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>interior-configuration-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(0.000000, -922.000000)"></g>
-        <g id="interior-configuration-large" stroke="#000000">
-            <path d="M24.2,39 L29.1,45.3 L24.2,39 Z M4.5,43 L4.5,39 C4.5,39 4,34.4 9.2,34.4 C14.4,34.4 24.2,39 24.2,39 C24.2,33.2 31.2,10.7 40.2,15 C40.2,15 42,15.6 40.2,19 C38.4,22.4 30.2,45 30.2,45 C30.2,45 29.8,45.6 24.1,45.6 L4.5,43 Z" id="Shape"></path>
-            <path d="M37.5,2.5 L40.5,2.5 C41.6,2.5 42.5,3.4 42.5,4.5 L42.5,9.5 C42.5,10.6 41.6,11.5 40.5,11.5 L37.5,11.5 C36.4,11.5 35.5,10.6 35.5,9.5 L35.5,4.5 C35.5,3.4 36.4,2.5 37.5,2.5 Z" id="Shape"></path>
+        <g id="briefing" transform="translate(0.000000, -922.000000)"/>
+        <g id="interior-configuration-large" stroke="currentColor">
+            <path d="M24.2,39 L29.1,45.3 L24.2,39 Z M4.5,43 L4.5,39 C4.5,39 4,34.4 9.2,34.4 C14.4,34.4 24.2,39 24.2,39 C24.2,33.2 31.2,10.7 40.2,15 C40.2,15 42,15.6 40.2,19 C38.4,22.4 30.2,45 30.2,45 C30.2,45 29.8,45.6 24.1,45.6 L4.5,43 Z" id="Shape"/>
+            <path d="M37.5,2.5 L40.5,2.5 C41.6,2.5 42.5,3.4 42.5,4.5 L42.5,9.5 C42.5,10.6 41.6,11.5 40.5,11.5 L37.5,11.5 C36.4,11.5 35.5,10.6 35.5,9.5 L35.5,4.5 C35.5,3.4 36.4,2.5 37.5,2.5 Z" id="Shape"/>
         </g>
     </g>
 </svg>

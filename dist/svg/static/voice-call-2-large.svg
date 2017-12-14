@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>voice-call-2-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3168.000000, -2330.000000)"></g>
-        <g id="voice-call-2-large" stroke="#000000">
-            <path d="M34.5,46 L41.5,38.5 C42,38 42,37 41.5,36.5 L36.5,31.5 C36,31 35,31 34.5,31.5 L32,33.5 C32,33.5 30.7,35.7 22.2,27.2 L21.2,26.2 C12.7,17.7 14.5,17 14.5,17 L16.5,13.5 C17,13 17,12 16.5,11.5 L12.5,7.5 C12,7 11,7 10.5,7.5 L2.5,14.5 C2.5,14.5 12.5,33.6 34.5,46 Z" id="Shape"></path>
-            <path d="M26,11.5 C31.8,11.5 36.5,16.2 36.5,22" id="Shape"></path>
+        <g id="briefing" transform="translate(-3168.000000, -2330.000000)"/>
+        <g id="voice-call-2-large" stroke="currentColor">
+            <path d="M34.5,46 L41.5,38.5 C42,38 42,37 41.5,36.5 L36.5,31.5 C36,31 35,31 34.5,31.5 L32,33.5 C32,33.5 30.7,35.7 22.2,27.2 L21.2,26.2 C12.7,17.7 14.5,17 14.5,17 L16.5,13.5 C17,13 17,12 16.5,11.5 L12.5,7.5 C12,7 11,7 10.5,7.5 L2.5,14.5 C2.5,14.5 12.5,33.6 34.5,46 Z" id="Shape"/>
+            <path d="M26,11.5 C31.8,11.5 36.5,16.2 36.5,22" id="Shape"/>
         </g>
     </g>
 </svg>

@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>system-favorites-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-68.000000, -1818.000000)"></g>
-        <g id="system-favorites-small" stroke="#000000">
-            <polygon id="Shape" points="11.5 5.7 13.2 9.2 17.1 9.8 14.3 12.5 15 16.3 11.6 14.5 8.2 16.3 8.9 12.5 5.9 9.7 9.8 9.1"></polygon>
-            <circle id="Oval" cx="11.5" cy="11.5" r="11"></circle>
+        <g id="briefing" transform="translate(-68.000000, -1818.000000)"/>
+        <g id="system-favorites-small" stroke="currentColor">
+            <polygon id="Shape" points="11.5 5.7 13.2 9.2 17.1 9.8 14.3 12.5 15 16.3 11.6 14.5 8.2 16.3 8.9 12.5 5.9 9.7 9.8 9.1"/>
+            <circle id="Oval" cx="11.5" cy="11.5" r="11"/>
         </g>
     </g>
 </svg>

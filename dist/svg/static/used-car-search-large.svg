@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>used-car-search-large</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2592.000000, -2202.000000)"></g>
-        <g id="used-car-search-large" stroke="#000000">
-            <circle id="Oval" cx="35.5" cy="30.5" r="4"></circle>
-            <circle id="Oval" cx="12.5" cy="30.5" r="4"></circle>
-            <path d="M31.6,31.5 L30,31.5 M24,31.5 L16.4,31.5 M39.3,31.7 C43.9,31.7 44.5,30.4 44.5,30.4 L44.5,23.2 C44.5,23.2 36.7,17.6 30.4,16.8" id="Shape"></path>
-            <path d="M26,16.5 C18.5,16.5 15.7,20.8 15.7,20.8" id="Shape" stroke-linejoin="round"></path>
-            <path d="M30.7,40.7 L23.2,23.8 L30.7,40.7 Z M28.5,15.4 C28.7,20.2 25,24.3 20.2,24.5 C20,24.5 19.8,24.5 19.6,24.5 C14.6,24.4 10.6,20.4 10.5,15.4 C10.6,10.4 14.6,6.5 19.6,6.5 C24.5,6.5 28.5,10.5 28.5,15.4 Z" id="Shape"></path>
-            <path d="M10.5,22.5 C10.5,22.5 8.8,23 7.8,23.3 C6.2,23.9 3.5,24.5 3.5,29.7 L3.5,31.5 L8.6,31.5" id="Path"></path>
+        <g id="briefing" transform="translate(-2592.000000, -2202.000000)"/>
+        <g id="used-car-search-large" stroke="currentColor">
+            <circle id="Oval" cx="35.5" cy="30.5" r="4"/>
+            <circle id="Oval" cx="12.5" cy="30.5" r="4"/>
+            <path d="M31.6,31.5 L30,31.5 M24,31.5 L16.4,31.5 M39.3,31.7 C43.9,31.7 44.5,30.4 44.5,30.4 L44.5,23.2 C44.5,23.2 36.7,17.6 30.4,16.8" id="Shape"/>
+            <path d="M26,16.5 C18.5,16.5 15.7,20.8 15.7,20.8" id="Shape" stroke-linejoin="round"/>
+            <path d="M30.7,40.7 L23.2,23.8 L30.7,40.7 Z M28.5,15.4 C28.7,20.2 25,24.3 20.2,24.5 C20,24.5 19.8,24.5 19.6,24.5 C14.6,24.4 10.6,20.4 10.5,15.4 C10.6,10.4 14.6,6.5 19.6,6.5 C24.5,6.5 28.5,10.5 28.5,15.4 Z" id="Shape"/>
+            <path d="M10.5,22.5 C10.5,22.5 8.8,23 7.8,23.3 C6.2,23.9 3.5,24.5 3.5,29.7 L3.5,31.5 L8.6,31.5" id="Path"/>
         </g>
     </g>
 </svg>

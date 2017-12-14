@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>home-small</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs/>
     <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1796.000000, -794.000000)"></g>
-        <g id="home-small" stroke="#000000">
-            <path d="M4.5,10.1 L4.5,16.5 C4.5,17.6 5.4,18.5 6.5,18.5 L18.5,18.5 L18.5,10.1" id="Shape"></path>
-            <polyline id="Shape" points="20.8 11.8 11.5 4.6 2.2 11.8"></polyline>
+        <g id="briefing" transform="translate(-1796.000000, -794.000000)"/>
+        <g id="home-small" stroke="currentColor">
+            <path d="M4.5,10.1 L4.5,16.5 C4.5,17.6 5.4,18.5 6.5,18.5 L18.5,18.5 L18.5,10.1" id="Shape"/>
+            <polyline id="Shape" points="20.8 11.8 11.5 4.6 2.2 11.8"/>
         </g>
     </g>
 </svg>
