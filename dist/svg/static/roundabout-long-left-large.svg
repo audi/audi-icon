@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>roundabout-long-left-large</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-576.000000, -1562.000000)"/>
-        <g id="roundabout-long-left-large" stroke="currentColor">
-            <path d="M35.5,24.1 C35.5,17.8 30.3,12.6 24,12.6 C17.7,12.6 12.5,17.8 12.5,24.1 C12.5,30.4 17.7,35.6 24,35.6 C28.3,35.6 32.3,32.8 33.9,29.8 C35.6,26.9 35.5,24.1 35.5,24.1 Z M9.2,9.2 L16,16 L9.2,9.2 Z M24,35.5 L24,45 L24,35.5 Z" id="Shape"/>
-            <polyline id="Path" points="8.9 16.4 9 8.9 16.5 8.9"/>
-        </g>
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        roundabout-long-left-large
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M35.5,24.1 C35.5,17.8 30.3,12.6 24,12.6 C17.7,12.6 12.5,17.8 12.5,24.1 C12.5,30.4 17.7,35.6 24,35.6 C28.3,35.6 32.3,32.8 33.9,29.8 C35.6,26.9 35.5,24.1 35.5,24.1 Z M9.2,9.2 L16,16 L9.2,9.2 Z M24,35.5 L24,45 L24,35.5 Z"/>
+        <path d="M8.9 16.4L9 8.9 16.5 8.9"/>
     </g>
 </svg>

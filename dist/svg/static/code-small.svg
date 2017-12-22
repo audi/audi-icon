@@ -1,19 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>code-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-68.000000, -410.000000)"/>
-        <g id="code-small" stroke="currentColor">
-            <path d="M19.5,19.5 L22.5,19.5 L22.5,22.5 L19.5,22.5 L19.5,19.5 Z M13.5,19.5 L16.5,19.5 L16.5,22.5 L13.5,22.5 L13.5,19.5 Z M19.5,13.5 L22.5,13.5 L22.5,16.5 L19.5,16.5 L19.5,13.5 Z M13.5,13.5 L16.5,13.5 L16.5,16.5 L13.5,16.5 L13.5,13.5 Z" id="Shape"/>
-            <polygon id="Shape" points="3.5 15.5 8.5 15.5 8.5 20.5 3.5 20.5"/>
-            <polygon id="Shape" points="1.5 13.5 10.5 13.5 10.5 22.5 1.5 22.5"/>
-            <polygon id="Shape" points="15.5 3.5 20.5 3.5 20.5 8.5 15.5 8.5"/>
-            <polygon id="Shape" points="13.5 1.5 22.5 1.5 22.5 10.5 13.5 10.5"/>
-            <polygon id="Shape" points="3.5 3.5 8.5 3.5 8.5 8.5 3.5 8.5"/>
-            <polygon id="Shape" points="1.5 1.5 10.5 1.5 10.5 10.5 1.5 10.5"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        code-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19.5,19.5 L22.5,19.5 L22.5,22.5 L19.5,22.5 L19.5,19.5 Z M13.5,19.5 L16.5,19.5 L16.5,22.5 L13.5,22.5 L13.5,19.5 Z M19.5,13.5 L22.5,13.5 L22.5,16.5 L19.5,16.5 L19.5,13.5 Z M13.5,13.5 L16.5,13.5 L16.5,16.5 L13.5,16.5 L13.5,13.5 Z"/>
+        <path d="M3.5 15.5L8.5 15.5 8.5 20.5 3.5 20.5z"/>
+        <path d="M1.5 13.5L10.5 13.5 10.5 22.5 1.5 22.5z"/>
+        <path d="M15.5 3.5L20.5 3.5 20.5 8.5 15.5 8.5z"/>
+        <path d="M13.5 1.5L22.5 1.5 22.5 10.5 13.5 10.5z"/>
+        <path d="M3.5 3.5L8.5 3.5 8.5 8.5 3.5 8.5z"/>
+        <path d="M1.5 1.5L10.5 1.5 10.5 10.5 1.5 10.5z"/>
     </g>
 </svg>

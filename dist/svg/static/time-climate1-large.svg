@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>time-climate1-large</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1728.000000, -2074.000000)"/>
-        <g id="time-climate1-large">
-            <path d="M23.5,20.5 C25.2,20.5 26.5,21.8 26.5,23.5 C26.5,25.2 25.2,26.5 23.5,26.5 C21.8,26.5 20.5,25.2 20.5,23.5 C20.5,21.8 21.8,20.5 23.5,20.5 Z" id="Shape" stroke="currentColor"/>
-            <path d="M32,39.4 C29.5,40.8 26.6,41.5 23.5,41.5 C13.6,41.5 5.5,33.4 5.5,23.5 C5.5,13.6 13.6,5.5 23.5,5.5 C33.4,5.5 41.5,13.6 41.5,23.5 C41.5,25.8 41.1,28 40.3,30 M23.5,20.5 L23.5,9" id="Shape" stroke="currentColor" stroke-linejoin="round"/>
-            <path d="M26.5,23.5 L34,23.5" id="Shape" stroke="currentColor"/>
-            <polygon id="Shape" fill="currentColor" fill-rule="nonzero" points="37 42 37 33 34 34 34 33 37.4 32 38 32 38 42"/>
-        </g>
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        time-climate1-large
+    </title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M23.5,20.5 C25.2,20.5 26.5,21.8 26.5,23.5 C26.5,25.2 25.2,26.5 23.5,26.5 C21.8,26.5 20.5,25.2 20.5,23.5 C20.5,21.8 21.8,20.5 23.5,20.5 Z" stroke="currentColor"/>
+        <path d="M32,39.4 C29.5,40.8 26.6,41.5 23.5,41.5 C13.6,41.5 5.5,33.4 5.5,23.5 C5.5,13.6 13.6,5.5 23.5,5.5 C33.4,5.5 41.5,13.6 41.5,23.5 C41.5,25.8 41.1,28 40.3,30 M23.5,20.5 L23.5,9" stroke="currentColor" stroke-linejoin="round"/>
+        <path d="M26.5,23.5 L34,23.5" stroke="currentColor"/>
+        <path fill="currentColor" d="M37.4946289 41.9135742L37.4946289 33.6552734 35 34.0869141 35 33.0808105 37.9643555 32.5 38.7165527 32.5 38.7165527 41.9135742z"/>
     </g>
 </svg>

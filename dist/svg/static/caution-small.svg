@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>caution-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2372.000000, -282.000000)"/>
-        <g id="caution-small" stroke="currentColor">
-            <path d="M11.5,16 L11.5,18 M11.5,8 L11.5,14" id="Shape" stroke-linejoin="round"/>
-            <polygon id="Shape" points="21.5 20.5 1.5 20.5 11.5 2.5"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        caution-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11.5,16 L11.5,18 M11.5,8 L11.5,14" stroke-linejoin="round"/>
+        <path d="M21.5 20.5L1.5 20.5 11.5 2.5z"/>
     </g>
 </svg>

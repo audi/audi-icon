@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>roundabout-left-large</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-288.000000, -1562.000000)"/>
-        <g id="roundabout-left-large" stroke="currentColor">
-            <path d="M8.5,19 L3,24.5 L8.5,30 M3,24.5 L12.5,24.5 M24.5,45 L24.5,36.5" id="Shape"/>
-            <circle id="Oval" cx="24.5" cy="24.5" r="12"/>
-        </g>
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        roundabout-left-large
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8.5,19 L3,24.5 L8.5,30 M3,24.5 L12.5,24.5 M24.5,45 L24.5,36.5"/>
+        <circle cx="24.5" cy="24.5" r="12"/>
     </g>
 </svg>

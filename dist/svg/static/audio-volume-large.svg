@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>audio-volume-large</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2304.000000, -154.000000)"/>
-        <g id="audio-volume-large" stroke="currentColor">
-            <polygon id="Shape" points="14.5 30.5 6.5 30.5 6.5 17.5 14.5 17.5"/>
-            <polyline id="Path" points="14.7 30.2 23.5 36.5 23.5 11.5 14.7 17.8"/>
-            <path d="M30.3,16.7 C30.3,16.7 37.1,23.8 30.3,31.3" id="Path"/>
-            <path d="M35.3,11.3 C35.3,11.3 49.1,23.4 35.4,36.7" id="Path"/>
-        </g>
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        audio-volume-large
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14.5 30.5L6.5 30.5 6.5 17.5 14.5 17.5z"/>
+        <path d="M14.7 30.2L23.5 36.5 23.5 11.5 14.7 17.8"/>
+        <path d="M30.3,16.7 C30.3,16.7 37.1,23.8 30.3,31.3"/>
+        <path d="M35.3,11.3 C35.3,11.3 49.1,23.4 35.4,36.7"/>
     </g>
 </svg>

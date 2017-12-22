@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>time-middle-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2660.000000, -2074.000000)"/>
-        <g id="time-middle-small" stroke="currentColor">
-            <polyline id="Shape" points="14 23 11.5 20.5 14 18"/>
-            <path d="M12,1.5 C17.3,1.5 21.5,5.7 21.5,11 C21.5,15.6 18.3,19.4 14.1,20.4 C13.4,20.6 12.3,20.7 11.5,20.5 M2,16.5 L3,16.5 M3,6.5 L2,6.5 M6.5,20 L6.5,19 M6.5,3 L6.5,2 M1,11.5 L2,11.5 M11,12 L16,7" id="Shape"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        time-middle-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14 23L11.5 20.5 14 18"/>
+        <path d="M12,1.5 C17.3,1.5 21.5,5.7 21.5,11 C21.5,15.6 18.3,19.4 14.1,20.4 C13.4,20.6 12.3,20.7 11.5,20.5 M2,16.5 L3,16.5 M3,6.5 L2,6.5 M6.5,20 L6.5,19 M6.5,3 L6.5,2 M1,11.5 L2,11.5 M11,12 L16,7"/>
     </g>
 </svg>

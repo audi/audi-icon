@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>camera-large</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-864.000000, -282.000000)"/>
-        <g id="camera-large" stroke="currentColor">
-            <path d="M35.5,13.5 L45.5,13.5 L45.5,36.5 C45.5,37.6 44.6,38.5 43.6,38.5 C43.6,38.5 43.6,38.5 43.5,38.5 L2.5,38.5 L2.5,15.5 C2.5,14.4 3.4,13.5 4.4,13.5 C4.4,13.5 4.4,13.5 4.5,13.5 L12.5,13.5 L12.5,11.5 C12.5,10.4 13.4,9.5 14.4,9.5 C14.4,9.5 14.4,9.5 14.5,9.5 L33.5,9.5 C34.6,9.5 35.5,10.4 35.5,11.4 C35.5,11.4 35.5,11.4 35.5,11.5 L35.5,13.5 Z" id="Shape"/>
-            <circle id="Oval" cx="24" cy="25" r="9.5"/>
-        </g>
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        camera-large
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M35.5,13.5 L45.5,13.5 L45.5,36.5 C45.5,37.6 44.6,38.5 43.6,38.5 C43.6,38.5 43.6,38.5 43.5,38.5 L2.5,38.5 L2.5,15.5 C2.5,14.4 3.4,13.5 4.4,13.5 C4.4,13.5 4.4,13.5 4.5,13.5 L12.5,13.5 L12.5,11.5 C12.5,10.4 13.4,9.5 14.4,9.5 C14.4,9.5 14.4,9.5 14.5,9.5 L33.5,9.5 C34.6,9.5 35.5,10.4 35.5,11.4 C35.5,11.4 35.5,11.4 35.5,11.5 L35.5,13.5 Z"/>
+        <circle cx="24" cy="25" r="9.5"/>
     </g>
 </svg>

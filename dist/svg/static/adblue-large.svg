@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>adblue-large</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-288.000000, -26.000000)"/>
-        <g id="adblue-large" stroke="currentColor">
-            <path d="M16,21 L13.5,17 L35.3,3.5 C36.2,2.9 37.4,3.2 38,4.1 L46.5,17 L24.3,30.9 C23.3,31.5 22.1,31.2 21.5,30.2 L20.5,28.5 L16,31 L11.5,23.5 L16,21 Z M11.5,28.5 C11.5,28.5 2.5,32 2.5,46.5 L7.5,46.5 C7.5,46.5 7,36 11.5,28.5 Z" id="Shape"/>
-            <path d="M16,21 C16,21 19.5,19.2 19.5,17.5 C19.5,17.5 20.8,20.5 22.5,20.5 C24.2,20.5 25.5,19.5 25.5,17.5 C25.5,17.5 26.7,20.5 28.5,20.5 C30.3,20.5 31.5,19.5 31.5,17.5 C31.5,17.5 32.8,20.5 34.5,20.5 C36.2,20.5 37.5,19.5 37.5,17.5 C37.5,17.5 38.8,20.5 40.7,20.5" id="Shape" stroke-linejoin="bevel"/>
-        </g>
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        adblue-large
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,21 L13.5,17 L35.3,3.5 C36.2,2.9 37.4,3.2 38,4.1 L46.5,17 L24.3,30.9 C23.3,31.5 22.1,31.2 21.5,30.2 L20.5,28.5 L16,31 L11.5,23.5 L16,21 Z M11.5,28.5 C11.5,28.5 2.5,32 2.5,46.5 L7.5,46.5 C7.5,46.5 7,36 11.5,28.5 Z"/>
+        <path d="M16,21 C16,21 19.5,19.2 19.5,17.5 C19.5,17.5 20.8,20.5 22.5,20.5 C24.2,20.5 25.5,19.5 25.5,17.5 C25.5,17.5 26.7,20.5 28.5,20.5 C30.3,20.5 31.5,19.5 31.5,17.5 C31.5,17.5 32.8,20.5 34.5,20.5 C36.2,20.5 37.5,19.5 37.5,17.5 C37.5,17.5 38.8,20.5 40.7,20.5" stroke-linejoin="bevel"/>
     </g>
 </svg>

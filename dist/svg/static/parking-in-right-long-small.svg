@@ -1,15 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>parking-in-right-long-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-644.000000, -1178.000000)"/>
-        <g id="parking-in-right-long-small" stroke="currentColor">
-            <path d="M12.5,24 L12.5,21.5 L4.5,21.5 C3.4,21.5 2.5,20.6 2.5,19.5 L2.5,4.5 C2.5,3.4 3.4,2.5 4.5,2.5 L12.5,2.5 L12.5,0" id="Shape"/>
-            <path d="M20.5,0 L20.5,2.5 C20.5,5.3 18.3,7.5 15.5,7.5 L14.5,7.5 C11.7,7.5 9.5,9.7 9.5,12.5 L9.5,17.5" id="Shape"/>
-            <polyline id="Shape" points="13 14 9.5 17.5 6 14"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        parking-in-right-long-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.5,24 L12.5,21.5 L4.5,21.5 C3.4,21.5 2.5,20.6 2.5,19.5 L2.5,4.5 C2.5,3.4 3.4,2.5 4.5,2.5 L12.5,2.5 L12.5,0"/>
+        <path d="M20.5,0 L20.5,2.5 C20.5,5.3 18.3,7.5 15.5,7.5 L14.5,7.5 C11.7,7.5 9.5,9.7 9.5,12.5 L9.5,17.5"/>
+        <path d="M13 14L9.5 17.5 6 14"/>
     </g>
 </svg>

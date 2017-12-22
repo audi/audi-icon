@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>brake-pad-alert-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3812.000000, -154.000000)"/>
-        <g id="brake-pad-alert-small" stroke="currentColor">
-            <path d="M20.5,14.5 C20.4,19.4 16.4,23.4 11.5,23.5 C6.6,23.4 2.6,19.4 2.5,14.5 M10.5,8.4 C7.7,9.2 5.7,11.6 5.5,14.5 L0.5,14.5 C0.6,8.4 5.4,3.6 11.5,3.5 L11.5,7 M13.6,14.4 C13.7,15.6 12.8,16.5 11.7,16.6 C10.6,16.7 9.6,15.8 9.5,14.7 C9.5,14.6 9.5,14.5 9.5,14.4" id="Shape" stroke-linejoin="round"/>
-            <path d="M17.5,5 L17.5,8 M17.5,9 L17.5,11" id="Shape" stroke-linejoin="round"/>
-            <polygon id="Shape" points="23.2 12.5 11.8 12.5 17.5 1"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        brake-pad-alert-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle cx="12" cy="12" r="9"/>
+        <path d="M12.3,6.5 L12.3,13.5" stroke-linejoin="round"/>
+        <path d="M12.3,15 L12.3,17" stroke-linejoin="round"/>
+        <path d="M19.588986,20.6631662 C21.986735,18.5555813 23.5,15.4657736 23.5,12.0225239 C23.5,9.11358262 22.4199401,6.45690288 20.6389594,4.4316238 M3.37305781,4.41797979 C1.58491957,6.444964 0.5,9.10704567 0.5,12.0225239 C0.5,15.397871 1.95416882,18.4335788 4.2701964,20.5373372"/>
     </g>
 </svg>

@@ -1,13 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>system-resize-decrease-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1508.000000, -1946.000000)"/>
-        <g id="system-resize-decrease-small" stroke="currentColor">
-            <path d="M22.5,11.5 C22.5,17.5751322 17.5751322,22.5 11.5,22.5 C5.42486775,22.5 0.5,17.5751322 0.5,11.5 C0.5,5.42486775 5.42486775,0.5 11.5,0.5 C14.4173814,0.5 17.2152744,1.65892524 19.2781746,3.72182541 C21.3410748,5.78472557 22.5,8.58261861 22.5,11.5 Z M12.5,6 L12.5,10.5 L17,10.5 M12.5,10.5 L16.6316,6.3684 L12.5,10.5 Z M10.5,12.5 L6.3684,16.6316 L10.5,12.5 Z M6,12.5 L10.5,12.5 L10.5,17" id="system-resize-decrease"/>
-        </g>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        system-resize-decrease-small
+    </title>
+    <path d="M22.5,11.5 C22.5,17.5751322 17.5751322,22.5 11.5,22.5 C5.42486775,22.5 0.5,17.5751322 0.5,11.5 C0.5,5.42486775 5.42486775,0.5 11.5,0.5 C14.4173814,0.5 17.2152744,1.65892524 19.2781746,3.72182541 C21.3410748,5.78472557 22.5,8.58261861 22.5,11.5 Z M12.5,6 L12.5,10.5 L17,10.5 M12.5,10.5 L16.6316,6.3684 L12.5,10.5 Z M10.5,12.5 L6.3684,16.6316 L10.5,12.5 Z M6,12.5 L10.5,12.5 L10.5,17" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

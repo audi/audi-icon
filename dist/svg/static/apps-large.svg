@@ -1,18 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>apps-large</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2016.000000, -26.000000)"/>
-        <g id="apps-large" stroke="currentColor">
-            <path d="M38.5,9.5 L41.5,9.5 C43.2,9.5 44.5,10.8 44.5,12.5 L44.5,41.5 C44.5,43.2 43.2,44.5 41.5,44.5 L12.5,44.5 C10.8,44.5 9.5,43.2 9.5,41.5 L9.5,38.5" id="Shape"/>
-            <path d="M6.5,3.5 L35.5,3.5 C37.2,3.5 38.5,4.8 38.5,6.5 L38.5,35.5 C38.5,37.2 37.2,38.5 35.5,38.5 L6.5,38.5 C4.8,38.5 3.5,37.2 3.5,35.5 L3.5,6.5 C3.5,4.8 4.8,3.5 6.5,3.5 Z" id="Shape" stroke-linecap="round"/>
-            <circle id="Oval" stroke-linecap="round" cx="11.1" cy="14.1" r="4.6"/>
-            <circle id="Oval" stroke-linecap="round" cx="17.7" cy="14.1" r="4.6"/>
-            <circle id="Oval" stroke-linecap="round" cx="24.3" cy="14.1" r="4.6"/>
-            <circle id="Oval" stroke-linecap="round" cx="30.9" cy="14.1" r="4.6"/>
-        </g>
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        apps-large
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M38.5,9.5 L41.5,9.5 C43.2,9.5 44.5,10.8 44.5,12.5 L44.5,41.5 C44.5,43.2 43.2,44.5 41.5,44.5 L12.5,44.5 C10.8,44.5 9.5,43.2 9.5,41.5 L9.5,38.5"/>
+        <path d="M6.5,3.5 L35.5,3.5 C37.2,3.5 38.5,4.8 38.5,6.5 L38.5,35.5 C38.5,37.2 37.2,38.5 35.5,38.5 L6.5,38.5 C4.8,38.5 3.5,37.2 3.5,35.5 L3.5,6.5 C3.5,4.8 4.8,3.5 6.5,3.5 Z" stroke-linecap="round"/>
+        <circle stroke-linecap="round" cx="11.1" cy="14.1" r="4.6"/>
+        <circle stroke-linecap="round" cx="17.7" cy="14.1" r="4.6"/>
+        <circle stroke-linecap="round" cx="24.3" cy="14.1" r="4.6"/>
+        <circle stroke-linecap="round" cx="30.9" cy="14.1" r="4.6"/>
     </g>
 </svg>

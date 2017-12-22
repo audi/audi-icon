@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>test-drive-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-1508.000000, -2074.000000)"/>
-        <g id="test-drive-small" stroke="currentColor">
-            <circle id="Oval" cx="11.5" cy="13" r="3.5"/>
-            <path d="M11.5,16.5 L11.5,21.5 L11.5,16.5 Z M15,12.5 L22.5,12.5 L15,12.5 Z M8,12.5 L0.5,12.5 L8,12.5 Z M5.1,21.5 L18,21.5 C20.8,19.6 22.6,16.5 22.6,13 C22.6,7.2 17.7,2.5 11.6,2.5 C5.5,2.5 0.5,7.2 0.5,13 C0.5,16.5 2.3,19.6 5.1,21.5 Z" id="Shape"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        test-drive-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle cx="11.5" cy="13" r="3.5"/>
+        <path d="M11.5,16.5 L11.5,21.5 L11.5,16.5 Z M15,12.5 L22.5,12.5 L15,12.5 Z M8,12.5 L0.5,12.5 L8,12.5 Z M5.1,21.5 L18,21.5 C20.8,19.6 22.6,16.5 22.6,13 C22.6,7.2 17.7,2.5 11.6,2.5 C5.5,2.5 0.5,7.2 0.5,13 C0.5,16.5 2.3,19.6 5.1,21.5 Z"/>
     </g>
 </svg>

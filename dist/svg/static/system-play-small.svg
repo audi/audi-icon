@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>system-play-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3236.000000, -1818.000000)"/>
-        <g id="system-play-small" stroke="currentColor">
-            <polygon id="Shape" stroke-linejoin="round" points="9.5 7.4 15.5 11.5 9.5 15.7"/>
-            <circle id="Oval" cx="11.5" cy="11.5" r="11"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        system-play-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path stroke-linejoin="round" d="M9.5 7.4L15.5 11.5 9.5 15.7z"/>
+        <circle cx="11.5" cy="11.5" r="11"/>
     </g>
 </svg>

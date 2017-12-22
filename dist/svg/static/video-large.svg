@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>video-large</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2016.000000, -2330.000000)"/>
-        <g id="video-large" stroke="currentColor">
-            <path d="M2.5,9.5 L42.5,9.5 C44.2,9.5 45.5,10.8 45.5,12.5 L45.5,37.5 L5.5,37.5 C3.8,37.5 2.5,36.2 2.5,34.5 C2.5,34.5 2.5,9.5 2.5,9.5 Z" id="Shape"/>
-            <polygon id="Shape" stroke-linejoin="round" points="19.5 15.4 31.4 23.4 19.5 31.6"/>
-        </g>
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        video-large
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2.5,9.5 L42.5,9.5 C44.2,9.5 45.5,10.8 45.5,12.5 L45.5,37.5 L5.5,37.5 C3.8,37.5 2.5,36.2 2.5,34.5 C2.5,34.5 2.5,9.5 2.5,9.5 Z"/>
+        <path stroke-linejoin="round" d="M19.5 15.4L31.4 23.4 19.5 31.6z"/>
     </g>
 </svg>

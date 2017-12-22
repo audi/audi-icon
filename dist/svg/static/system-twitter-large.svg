@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>system-twitter-large</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2592.000000, -1946.000000)"/>
-        <g id="system-twitter-large">
-            <path d="M34.5,16.7 C34.5,16.7 37.7,17.1 38.6,16.5 C37.1,17.3 35.6,18.3 34.4,19.5 C34.4,19.5 35.6,32.8 21.7,36 C21.7,36 14.5,36.6 9.4,32.7 C9.4,32.7 14.9,34.2 17.9,30.8 C17.9,30.8 12.8,31.3 11.5,27.3 C12.7,27.3 13.9,27.1 15.1,26.8 C15.1,26.8 10.3,25.9 10.4,21.1 C11.2,21.6 12.1,21.8 13.1,21.8 C13.1,21.8 9.1,18.2 11.6,14 C11.6,14 16.9,20.5 23.5,20.1 C22.7,17.1 24.5,14 27.6,13.2 C29.6,12.7 31.6,13.3 33,14.7 C34.4,14.4 35.7,13.8 36.9,12.8 C36.8,13 36.9,14.8 34.5,16.7 Z" id="Shape" fill="currentColor" fill-rule="nonzero"/>
-            <circle id="Oval" stroke="currentColor" cx="23.5" cy="23.5" r="22"/>
-        </g>
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        system-twitter-large
+    </title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M34.5,16.7 C34.5,16.7 37.7,17.1 38.6,16.5 C37.1,17.3 35.6,18.3 34.4,19.5 C34.4,19.5 35.6,32.8 21.7,36 C21.7,36 14.5,36.6 9.4,32.7 C9.4,32.7 14.9,34.2 17.9,30.8 C17.9,30.8 12.8,31.3 11.5,27.3 C12.7,27.3 13.9,27.1 15.1,26.8 C15.1,26.8 10.3,25.9 10.4,21.1 C11.2,21.6 12.1,21.8 13.1,21.8 C13.1,21.8 9.1,18.2 11.6,14 C11.6,14 16.9,20.5 23.5,20.1 C22.7,17.1 24.5,14 27.6,13.2 C29.6,12.7 31.6,13.3 33,14.7 C34.4,14.4 35.7,13.8 36.9,12.8 C36.8,13 36.9,14.8 34.5,16.7 Z" fill="currentColor" fill-rule="nonzero"/>
+        <circle stroke="currentColor" cx="23.5" cy="23.5" r="22"/>
     </g>
 </svg>

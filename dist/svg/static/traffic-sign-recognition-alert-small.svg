@@ -1,17 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>traffic-sign-recognition-alert-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-644.000000, -2202.000000)"/>
-        <g id="traffic-sign-recognition-alert-small" stroke="currentColor">
-            <polyline id="Shape" points="19.5 15 23.2 22.5 0.8 22.5 12 1.5 13.5 4"/>
-            <path d="M15,14.5 L17.5,16.7 L17.5,19.5 C17.5,19.7 17.4,20.5 17.2,20.5 L16,20.5 C15.8,20.5 15.5,19.7 15.5,19.5 L10.5,19.5 C10.5,19.7 10.4,20.5 10.2,20.5 L8.8,20.5 C8.6,20.5 8.5,19.7 8.5,19.5 L8.5,16.7 L11,14.5 C11,14.5 15,14.5 15,14.5 Z" id="Shape"/>
-            <polyline id="Path" points="6.5 18 6.5 14.8 9 12.5"/>
-            <path d="M17.5,5 L17.5,8 M17.5,9 L17.5,11" id="Shape" stroke-linejoin="round"/>
-            <polygon id="Shape" points="23.2 12.5 11.6 12.5 17.5 1"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        traffic-sign-recognition-alert-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19.5 15L23.2 22.5 0.8 22.5 12 1.5 13.5 4"/>
+        <path d="M15,14.5 L17.5,16.7 L17.5,19.5 C17.5,19.7 17.4,20.5 17.2,20.5 L16,20.5 C15.8,20.5 15.5,19.7 15.5,19.5 L10.5,19.5 C10.5,19.7 10.4,20.5 10.2,20.5 L8.8,20.5 C8.6,20.5 8.5,19.7 8.5,19.5 L8.5,16.7 L11,14.5 C11,14.5 15,14.5 15,14.5 Z"/>
+        <path d="M6.5 18L6.5 14.8 9 12.5"/>
+        <path d="M17.5,5 L17.5,8 M17.5,9 L17.5,11" stroke-linejoin="round"/>
+        <path d="M23.2 12.5L11.6 12.5 17.5 1z"/>
     </g>
 </svg>

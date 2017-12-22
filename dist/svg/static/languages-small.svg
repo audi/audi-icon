@@ -1,15 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>languages-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-356.000000, -922.000000)"/>
-        <g id="languages-small" stroke="currentColor">
-            <ellipse id="Oval" cx="11.5" cy="11.5" rx="5" ry="11"/>
-            <path d="M1.7,16.5 L21.3,16.5 M0.5,11.5 L22.5,11.5 M1.7,6.5 L21.3,6.5" id="Shape"/>
-            <circle id="Oval" cx="11.5" cy="11.5" r="11"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        languages-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse cx="11.5" cy="11.5" rx="5" ry="11"/>
+        <path d="M1.7,16.5 L21.3,16.5 M0.5,11.5 L22.5,11.5 M1.7,6.5 L21.3,6.5"/>
+        <circle cx="11.5" cy="11.5" r="11"/>
     </g>
 </svg>

@@ -1,13 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>pause-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3236.000000, -1178.000000)"/>
-        <g id="pause-small" stroke="currentColor" stroke-linejoin="round">
-            <path d="M7.5,3 L7.5,20 M15.5,3 L15.5,20" id="Shape"/>
-        </g>
-    </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        pause-small
+    </title>
+    <path d="M7.5,3 L7.5,20 M15.5,3 L15.5,20" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round"/>
 </svg>

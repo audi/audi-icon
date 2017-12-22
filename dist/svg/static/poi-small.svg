@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>poi-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2660.000000, -1306.000000)"/>
-        <g id="poi-small" stroke="currentColor">
-            <circle id="Oval" cx="11.5" cy="8.5" r="3"/>
-            <path d="M18.5,8.5 C18.5,4.6 15.4,1.5 11.5,1.5 C7.6,1.5 4.5,4.6 4.5,8.5 C4.5,12.4 11.5,22.5 11.5,22.5 C11.5,22.5 18.5,12.4 18.5,8.5 Z" id="Shape"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        poi-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle cx="11.5" cy="8.5" r="3"/>
+        <path d="M18.5,8.5 C18.5,4.6 15.4,1.5 11.5,1.5 C7.6,1.5 4.5,4.6 4.5,8.5 C4.5,12.4 11.5,22.5 11.5,22.5 C11.5,22.5 18.5,12.4 18.5,8.5 Z"/>
     </g>
 </svg>

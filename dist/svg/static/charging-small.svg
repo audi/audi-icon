@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>charging-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-2660.000000, -282.000000)"/>
-        <g id="charging-small" stroke="currentColor">
-            <path d="M17.5,6.5 L21,6.5 L17.5,6.5 Z M17.5,10.5 L21,10.5 L17.5,10.5 Z M17.5,4.5 L15,4.5 C15,4.5 10.5,4.4 10.5,8.5 C10.5,12.6 15,12.5 15,12.5 L17.5,12.5 L17.5,4.5 Z" id="Shape"/>
-            <path d="M10.5,8.5 L5.8,8.5 C5.8,8.5 3.6,8.4 3.6,10.5 C3.6,12.6 5.8,12.5 5.8,12.5 L7,12.5 C8,12.5 8.5,12.9 8.5,14.4 L8.5,20" id="Path"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        charging-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17.5,6.5 L21,6.5 L17.5,6.5 Z M17.5,10.5 L21,10.5 L17.5,10.5 Z M17.5,4.5 L15,4.5 C15,4.5 10.5,4.4 10.5,8.5 C10.5,12.6 15,12.5 15,12.5 L17.5,12.5 L17.5,4.5 Z"/>
+        <path d="M10.5,8.5 L5.8,8.5 C5.8,8.5 3.6,8.4 3.6,10.5 C3.6,12.6 5.8,12.5 5.8,12.5 L7,12.5 C8,12.5 8.5,12.9 8.5,14.4 L8.5,20"/>
     </g>
 </svg>

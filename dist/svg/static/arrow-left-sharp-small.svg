@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>arrow-left-sharp-small</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3236.000000, -26.000000)"/>
-        <g id="arrow-left-sharp-small" stroke="currentColor">
-            <polyline id="Shape" points="14 11.5 7.5 11.5 7.5 5"/>
-            <polyline id="Shape" points="17.5 24 17.5 1.5 7.5 11.5"/>
-        </g>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        arrow-left-sharp-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14 11.5L7.5 11.5 7.5 5"/>
+        <path d="M17.5 24L17.5 1.5 7.5 11.5"/>
     </g>
 </svg>

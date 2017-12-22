@@ -1,13 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>arrow-narrow-down-large</title>
-    <desc>Created with sketchtool.</desc>
-    <defs/>
-    <g id="icons-published" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefing" transform="translate(-3744.000000, -26.000000)"/>
-        <g id="arrow-narrow-down-large" stroke="currentColor">
-            <polyline id="Shape" points="34 21 24.5 27 15 21"/>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        arrow-narrow-down-large
+    </title>
+    <path d="M34 21L24.5 27 15 21" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>
