@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        feature-on-demand-small
+    </title>
+    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13.5 13.5L21.5 13.5 21.5 21.5 13.5 21.5z"/>
+        <path d="M2.5 13.5L10.5 13.5 10.5 21.5 2.5 21.5z"/>
+        <path d="M13.5 0.5L23.5 0.5 23.5 10.5 13.5 10.5z"/>
+        <path d="M2.5 2.5L10.5 2.5 10.5 10.5 2.5 10.5z"/>
+        <path d="M16,5.5 L21,5.5 M18.5,3 L18.5,8"/>
+    </g>
+</svg>
