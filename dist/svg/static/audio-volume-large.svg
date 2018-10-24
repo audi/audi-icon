@@ -2,10 +2,5 @@
     <title>
         audio-volume-large
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M14.5 30.5L6.5 30.5 6.5 17.5 14.5 17.5z"/>
-        <path d="M14.7 30.2L23.5 36.5 23.5 11.5 14.7 17.8"/>
-        <path d="M30.3,16.7 C30.3,16.7 37.1,23.8 30.3,31.3"/>
-        <path d="M35.3,11.3 C35.3,11.3 49.1,23.4 35.4,36.7"/>
-    </g>
+    <path d="M14.5,30.5 L6.5,30.5 L6.5,17.5 L14.5,17.5 L14.5,30.5 Z M14.7,30.2 L23.5,36.5 L23.5,11.5 L14.7,17.8 M35.3,11.3 C35.3,11.3 49.1,23.4 35.4,36.7 M30.3,16.7 C30.3,16.7 37.1,23.8 30.3,31.3" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

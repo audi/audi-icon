@@ -2,8 +2,5 @@
     <title>
         caution-large
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M23.5,33 L23.5,37 M23.5,18 L23.5,29" stroke-linejoin="round"/>
-        <path d="M2.5 42.5L23.5 4.5 44.5 42.5z"/>
-    </g>
+    <path d="M2.5,42.5 L23.5,4.5 L44.5,42.5 L2.5,42.5 Z M23.5,33 L23.5,37 M23.5,18 L23.5,29" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

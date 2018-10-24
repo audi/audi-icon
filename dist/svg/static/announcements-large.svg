@@ -2,8 +2,5 @@
     <title>
         announcements-large
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M23.5 12.5L23.5 26.5 17.5 26.5 23 42.5 15.5 42.5 10.5 26.5 3.5 26.5 3.5 12.5z"/>
-        <path d="M23.5,12.5 C30.8,12.5 41,6.5 41,6.5 C43,6.5 44.5,11.7 44.5,19.5 C44.5,27.3 43,32.5 41,32.5 C41,32.5 30.8,26.5 23.5,26.5" stroke-linejoin="round"/>
-    </g>
+    <path d="M23.5,12.5 L23.5,26.5 L17.5,26.5 L23,42.5 L15.5,42.5 L10.5,26.5 L3.5,26.5 L3.5,12.5 L23.5,12.5 Z M23.5,12.5 C30.8,12.5 41,6.5 41,6.5 C43,6.5 44.5,11.7 44.5,19.5 C44.5,27.3 43,32.5 41,32.5 C41,32.5 30.8,26.5 23.5,26.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

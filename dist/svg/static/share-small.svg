@@ -2,9 +2,5 @@
     <title>
         share-small
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M16.5 5.5L20.5 9.5 16.5 13.5"/>
-        <path d="M20.2,9.5 L13.8,9.5 C10.8,9.5 8.5,11 8.5,15 L8.5,16"/>
-        <path d="M15.5,15 L15.5,18 C15.5,19 15,19.5 14,19.5 L3.5,19.5 L3.5,8 C3.5,7 4,6.5 5,6.5 L13,6.5"/>
-    </g>
+    <path d="M13.9820943,8.5 L17.5,8.5 L17.5,20.5 L5.5,20.5 L5.5,8.5 L9,8.5 M11.5,15 L11.5,2.50126652 M8,6 L11.5,2.5 L15,6" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

@@ -2,11 +2,5 @@
     <title>
         feature-on-demand-large
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M26.5 26.5L42.5 26.5 42.5 42.5 26.5 42.5z"/>
-        <path d="M5.5 26.5L21.5 26.5 21.5 42.5 5.5 42.5z"/>
-        <path d="M27.5 2.5L45.5 2.5 45.5 20.5 27.5 20.5z"/>
-        <path d="M5.5 5.5L21.5 5.5 21.5 21.5 5.5 21.5z"/>
-        <path d="M36.5,11.5 L32,11.5 L36.5,11.5 L36.5,7 L36.5,11.5 Z M36.5,11.5 L41,11.5 L36.5,11.5 L36.5,16 L36.5,11.5 Z"/>
-    </g>
+    <path d="M26.5,26.5 L42.5,26.5 L42.5,42.5 L26.5,42.5 L26.5,26.5 Z M5.5,26.5 L21.5,26.5 L21.5,42.5 L5.5,42.5 L5.5,26.5 Z M27.5,2.5 L45.5,2.5 L45.5,20.5 L27.5,20.5 L27.5,2.5 Z M5.5,5.5 L21.5,5.5 L21.5,21.5 L5.5,21.5 L5.5,5.5 Z M32,11.5 L41,11.5 M36.5,7 L36.5,16" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

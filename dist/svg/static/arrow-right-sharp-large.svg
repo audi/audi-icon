@@ -2,8 +2,5 @@
     <title>
         arrow-right-sharp-large
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M32.5 15L32.5 22.5 25 22.5"/>
-        <path d="M32.5 22.5L16.5 6.5 16.5 42"/>
-    </g>
+    <path d="M32.5,22.5 L16.5,6.5 L16.5,42 M32.5,15 L32.5,22.5 L25,22.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>
