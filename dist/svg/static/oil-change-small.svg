@@ -2,10 +2,5 @@
     <title>
         oil-change-small
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M23.5 11.5L21.5 9.5 13.5 12 12.5 10.5 4.5 10.5 4.5 16.5 15 16.5 20 10"/>
-        <path d="M9.5,10.5 L9.5,7.5"/>
-        <path d="M7.5,7.5 L11.5,7.5"/>
-        <path d="M0 8.5L3 8.5 5 10.5"/>
-    </g>
+    <path d="M23.5,11.5 L21.5,9.5 L13.5,12 L12.5,10.5 L4.5,10.5 L4.5,16.5 L15,16.5 L20,10 M9.5,10.5 L9.5,7.5 M7.5,7.5 L11.5,7.5 M0,8.5 L3,8.5 L5,10.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

@@ -2,5 +2,5 @@
     <title>
         pause-small
     </title>
-    <path d="M7.5,3 L7.5,20 M15.5,3 L15.5,20" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round"/>
+    <path d="M7.5,3 L7.5,20 M15.5,3 L15.5,20" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

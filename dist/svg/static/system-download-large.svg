@@ -2,8 +2,5 @@
     <title>
         system-download-large
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M17,30.5 L30,30.5 M23.5,16 L23.5,27 M27.9,22.6 L23.5,27 L19.1,22.6"/>
-        <circle cx="23.5" cy="23.5" r="22"/>
-    </g>
+    <path d="M17,30.5 L30,30.5 M23.5,16 L23.5,27 M27.9,22.6 L23.5,27 L19.1,22.6 M23.5,45.5 C35.6502645,45.5 45.5,35.6502645 45.5,23.5 C45.5,11.3497355 35.6502645,1.5 23.5,1.5 C11.3497355,1.5 1.5,11.3497355 1.5,23.5 C1.5,35.6502645 11.3497355,45.5 23.5,45.5 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

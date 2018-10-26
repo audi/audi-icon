@@ -2,9 +2,5 @@
     <title>
         system-skip-previous-small
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M15.5,15.6 L9.5,11.5 L15.5,7.3 C15.5,7.4 15.5,15.6 15.5,15.6 Z" stroke-linejoin="round"/>
-        <path d="M7.5,16 L7.5,7"/>
-        <circle cx="11.5" cy="11.5" r="11"/>
-    </g>
+    <path d="M15.5,15.6 L9.5,11.5 L15.5,7.3 C15.5,7.4 15.5,15.6 15.5,15.6 Z M7.5,16 L7.5,7 M11.5,22.5 C17.5751322,22.5 22.5,17.5751322 22.5,11.5 C22.5,5.42486775 17.5751322,0.5 11.5,0.5 C5.42486775,0.5 0.5,5.42486775 0.5,11.5 C0.5,17.5751322 5.42486775,22.5 11.5,22.5 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

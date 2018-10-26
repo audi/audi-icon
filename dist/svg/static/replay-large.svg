@@ -2,8 +2,5 @@
     <title>
         replay-large
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M9.3,30.8 C13.3,38.7 23,41.8 30.8,37.7 C38.6,33.6 41.8,24 37.7,16.2 C35,10.9 29.5,7.5 23.5,7.5 C17.1,7.5 11.4,11.5 9.1,17.5"/>
-        <path d="M18 17.5L8.5 17.5 8.5 8"/>
-    </g>
+    <path d="M9.3,30.8 C13.3,38.7 23,41.8 30.8,37.7 C38.6,33.6 41.8,24 37.7,16.2 C35,10.9 29.5,7.5 23.5,7.5 C17.1,7.5 11.4,11.5 9.1,17.5 M18,17.5 L8.5,17.5 L8.5,8" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

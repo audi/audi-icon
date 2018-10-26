@@ -2,5 +2,5 @@
     <title>
         play-large
     </title>
-    <path d="M13.5,9.3 L34.4,23.3 L13.5,37.7 C13.5,37.7 13.5,9.3 13.5,9.3 Z" fill-rule="nonzero" stroke="currentColor" stroke-width="1" fill="none"/>
+    <path d="M13.5,9.3 L34.4,23.3 L13.5,37.7 C13.5,37.7 13.5,9.3 13.5,9.3 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

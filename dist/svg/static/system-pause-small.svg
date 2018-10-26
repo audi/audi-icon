@@ -2,8 +2,5 @@
     <title>
         system-pause-small
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M9.5,7 L9.5,16 M13.5,7 L13.5,16" stroke-linejoin="round"/>
-        <circle cx="11.5" cy="11.5" r="11"/>
-    </g>
+    <path d="M9.5,7 L9.5,16 M13.5,7 L13.5,16 M11.5,22.5 C17.5751322,22.5 22.5,17.5751322 22.5,11.5 C22.5,5.42486775 17.5751322,0.5 11.5,0.5 C5.42486775,0.5 0.5,5.42486775 0.5,11.5 C0.5,17.5751322 5.42486775,22.5 11.5,22.5 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

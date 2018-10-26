@@ -2,11 +2,5 @@
     <title>
         offline-maps-large
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M18.5 12L30.5 6.5 42.5 12 42.5 40"/>
-        <path stroke-linecap="square" d="M6.5 34L6.5 6.5 18.5 12 18.5 40.6z"/>
-        <path d="M24,43.5 L37,43.5"/>
-        <path d="M30.5,21 L30.5,6.5"/>
-        <path d="M30.5,29 L30.5,40.5 M36,35 L30.5,40.5 L25,35"/>
-    </g>
+    <path d="M30.5,29 L30.5,40.5 M36,35 L30.5,40.5 L25,35 M18.5,12 L30.5,6.5 L42.5,12 L42.5,40 M6.5,34 L6.5,6.5 L18.5,12 L18.5,40.6 L6.5,34 Z M24,43.5 L37,43.5 M30.5,21 L30.5,6.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

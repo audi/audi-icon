@@ -2,10 +2,5 @@
     <title>
         news-small
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M19.7 9.5L23.1 9.5 17.2 19.5"/>
-        <path d="M17 7.5L20.2 7.5 17.2 19.5"/>
-        <path d="M0.5 9.5L0.5 19.5 15.5 19.5 15.5 4.5 5.5 4.5z"/>
-        <path d="M0.5,9.5 L5.5,9.5 L5.5,4.5 M3,15.5 L13,15.5 M3,12.5 L13,12.5"/>
-    </g>
+    <path d="M0.5,9.5 L5.5,9.5 L5.5,4.5 M3,15.5 L13,15.5 M3,12.5 L13,12.5 M19.7,9.5 L23.1,9.5 L17.2,19.5 M17,7.5 L20.2,7.5 L17.2,19.5 M0.5,9.5 L0.5,19.5 L15.5,19.5 L15.5,4.5 L5.5,4.5 L0.5,9.5 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

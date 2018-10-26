@@ -2,9 +2,5 @@
     <title>
         system-save-as-small
     </title>
-    <g stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M5.5,9 L5.5,15.5 L17.5,15.5 L17.5,9 M11.5,7 L11.5,13.4"/>
-        <path d="M8.3 10.2L11.5 13.4 14.7 10.2"/>
-        <circle cx="11.5" cy="11.5" r="11"/>
-    </g>
+    <path d="M5.5,9 L5.5,15.5 L17.5,15.5 L17.5,9 M11.5,7 L11.5,13.4 M8.3,10.2 L11.5,13.4 L14.7,10.2 M11.5,22.5 C17.5751322,22.5 22.5,17.5751322 22.5,11.5 C22.5,5.42486775 17.5751322,0.5 11.5,0.5 C5.42486775,0.5 0.5,5.42486775 0.5,11.5 C0.5,17.5751322 5.42486775,22.5 11.5,22.5 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>
