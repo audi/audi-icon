@@ -2,5 +2,5 @@
     <title>
         skip-previous-large
     </title>
-    <path d="M9.5,39.5 L9.5,8.5 L9.5,39.5 Z M38.5,9.2 L16.9,24 L38.5,38.8 L38.5,9.2 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
+    <path d="M9.5,39.5 L9.5,8.5 L9.5,39.5 Z M38.5,9.2 L16.9,24 L38.5,38.8 L38.5,9.2 L38.5,9.2 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>
