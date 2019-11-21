@@ -2,5 +2,5 @@
     <title>
         download-large
     </title>
-    <path d="M11,38.5 L38,38.5 L11,38.5 Z M24.5,9 L24.5,31.5 L24.5,9 Z M33.5,22.5 L24.5,31.5 L15.5,22.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
+    <path d="M11,38.5 L38,38.5 M24.5,9 L24.5,31.5 M33.5,22.5 L24.5,31.5 L15.5,22.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

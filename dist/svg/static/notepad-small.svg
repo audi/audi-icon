@@ -2,5 +2,5 @@
     <title>
         notepad-small
     </title>
-    <path d="M11.5,13.5 L8,13.5 L11.5,13.5 L11.5,10 L11.5,13.5 Z M11.5,13.5 L15,13.5 L11.5,13.5 L11.5,17 L11.5,13.5 Z M19.5,7 L19.5,22.5 L3.5,22.5 L3.5,2.5 L15,2.5 L19.5,7 Z M14.5,2.5 L14.5,7.5 L19.5,7.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
+    <path d="M19.5,7 L19.5,22.5 L3.5,22.5 L3.5,2.5 L15,2.5 L19.5,7 Z M14.5,2.5 L14.5,7.5 L19.5,7.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

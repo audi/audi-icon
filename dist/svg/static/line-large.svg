@@ -2,5 +2,5 @@
     <title>
         line-large
     </title>
-    <path d="M15,19.5 L34,19.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
+    <path d="M15 19.5L34 19.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>
