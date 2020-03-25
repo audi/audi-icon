@@ -4,8 +4,7 @@
   src: url('../fonts/audi-iconfont.eot?#iefix') format('eot'),
     url('../fonts/audi-iconfont.woff2') format('woff2'),
     url('../fonts/audi-iconfont.woff') format('woff'),
-    url('../fonts/audi-iconfont.ttf') format('truetype'),
-    url('../fonts/audi-iconfont.svg#audi-iconfont') format('svg');
+    url('../fonts/audi-iconfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
