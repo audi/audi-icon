@@ -2,5 +2,5 @@
     <title>
         external-link-small
     </title>
-    <path d="M18.5,11.59375 L18.5,20.5 L3.5,20.5 L3.5,5.5 L11.46875,5.5 M15.5,2.5 L21.5,2.5 L21.5,8.5 M12.5,11.5 L21.5,2.5 L12.5,11.5 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
+    <path d="M17.5,11.59375 L17.5,20.5 L2.5,20.5 L2.5,5.5 L10.46875,5.5 M14.5,2.5 L20.5,2.5 L20.5,8.5 M11.5,11.5 L20.5,2.5 L11.5,11.5 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>
