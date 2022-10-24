@@ -1,6 +1,0 @@
-<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <title>
-        rss-feed-small
-    </title>
-    <path d="M17.4,4 L5.6,4 C4.7,4 4,4.7 4,5.6 L4,17.5 C4,18.3 4.7,19 5.6,19 L17.5,19 C18.4,19 19.1,18.3 19.1,17.4 L19.1,5.6 C19,4.7 18.3,4 17.4,4 Z M7,17 C6.4,17 6,16.5 6,16 C6,15.5 6.5,15 7,15 C7.5,15 8,15.5 8,16 C8,16.5 7.6,17 7,17 Z M12,17 L10,17 C10,17 10,13 6,13 L6,11 C12,11 12,17 12,17 Z M14,17 C14,9 6.3,9 6,9 L6,7 C6.1,7 16,7 16,17 L14,17 Z" fill="currentColor" fill-rule="nonzero" stroke="none" stroke-width="1"/>
-</svg>

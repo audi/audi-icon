@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        battery-small
+    </title>
+    <path d="M9.5,2.5 L14.5,2.5 M12.5,9 L10,13.49 L14.1,13.49 L11.5,18 M17,5.5 L17,20.5 C17,21.0304 16.7893,21.5391 16.4142,21.9142 C16.0391,22.2893 15.5304,22.5 15,22.5 L9,22.5 C8.46957,22.5 7.96086,22.2893 7.58579,21.9142 C7.21071,21.5391 7,21.0304 7,20.5 L7,5.5 L17,5.5 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
+</svg>

@@ -2,5 +2,5 @@
     <title>
         social-reader-large
     </title>
-    <path d="M13,13 L35,13 L35,35 L13,35 L13,13 Z M13,21 L20,21 L13,21 Z M28,24 L35,24 L28,24 Z M20,29 L28,29 L20,29 Z M20,35 L20,13 L20,35 Z M28,35 L28,13 L28,35 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
+    <path d="M2.5,17.5 L16.1818,17.5 M31.8182,23.5 L45.5,23.5 M16.1818,33.5 L31.8182,33.5 M16.1818,45.5 L16.1818,2.5 M31.8182,45.5 L31.8182,2.5 M2.5,2.5 L45.5,2.5 L45.5,45.5 L2.5,45.5 L2.5,2.5 Z" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
 </svg>

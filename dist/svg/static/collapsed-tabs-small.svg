@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        collapsed-tabs-small
+    </title>
+    <path d="M1.5,6.5 L1.5,3.5 L6.67157,3.5 C7.20201,3.5 7.71071,3.71071 8.08579,4.08579 L10,6 C10.3201,6.32014 10.7544,6.5 11.2071,6.5 L20.5,6.5 C21.6046,6.5 22.5,7.39543 22.5,8.5 L22.5,21.5 M7,12 L12,17 L17,12 M23,21.5 L3.5,21.5 C2.39543,21.5 1.5,20.6046 1.5,19.5 L1.5,6" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
+</svg>

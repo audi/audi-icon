@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>
+        battery-large
+    </title>
+    <path d="M25,16 L20,24.98 L28.2,24.98 L23,34 M19,8 L14,8 L14,40 C14,41.0609 14.4214,42.0783 15.1716,42.8284 C15.9217,43.5786 16.9391,44 18,44 L30,44 C31.0609,44 32.0783,43.5786 32.8284,42.8284 C33.5786,42.0783 34,41.0609 34,40 L34,8 L29,8 M19,8 L19,4 L29,4 L29,8 M19,8 L29,8" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
+</svg>
