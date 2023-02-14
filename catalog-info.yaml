@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: audi-icon
+  description: |
+    Audi Icons as SVG, PNG, Icon Font and EPS.
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: library
+  owner: heyduck
+  lifecycle: experimental
