@@ -1,9 +1,0 @@
-<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <title>
-        recommended-destination-large
-    </title>
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M6,22 L16,22 L16,30 L6,30 L6,22 Z M6,3 L16,3 L16,12 L6,12 L6,3 Z M16,12 L27,12 L27,22 L16,22 L16,12 Z M27,5 L37,5 L37,12 L27,12 L27,5 Z" fill="currentColor" fill-rule="nonzero"/>
-        <path d="M3.5,3 L3.5,47 M21.5,31.5 L19.5,29.5 L6.5,29.5 L6.5,3.5 L22.5,3.5 L24.5,5.5 L36.5,5.5 L36.5,15 M33.5,37 L32.7,34.6 C30.4,33.2 28.5,30.4 28.5,27.5 C28.5,23.1 32,19.5 37,19.5 C42,19.5 45.5,23.1 45.5,27.5 C45.5,30.4 43.5,33.1 41.3,34.5 L40.5,37 M34,41.5 L40,41.5 M34,39.5 L40,39.5 M35,43.5 L39,43.5" stroke="currentColor"/>
-    </g>
-</svg>
