@@ -1,6 +1,0 @@
-<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <title>
-        print-small
-    </title>
-    <path d="M14.5,1.5 L14.5,6.5 L19.5,6.5 M8,14.5 L16,14.5 M8,10.5 L16,10.5 M19.5,6.5 L19.5,18.5 L4.5,18.5 L4.5,1.5 L14.5,1.5 L19.5,6.5 Z M19.6,14.5 L22.5,14.5 C23,14.5 23.5,14.9 23.5,15.5 C23.5,15.5 23.5,15.5 23.5,15.5 L23.5,23.5 L0.5,23.5 L0.5,15.5 C0.5,15 1,14.5 1.5,14.5 C1.5,14.5 1.5,14.5 1.5,14.5 L4.5,14.5" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
-</svg>

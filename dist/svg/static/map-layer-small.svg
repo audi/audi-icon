@@ -1,6 +1,0 @@
-<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <title>
-        map-layer-small
-    </title>
-    <path d="M22,10.3195 L13.034,4.6545 C12.708,4.4485 12.292,4.4485 11.966,4.6545 L3,10.3195 M3,13.3195 L11.966,7.6545 C12.292,7.4485 12.708,7.4485 13.034,7.6545 L22,13.3195 L13.034,18.9795 C12.708,19.1855 12.292,19.1855 11.966,18.9795 L3,13.3195 Z" transform="rotate(-180 12.5 11.817)" stroke="currentColor" stroke-width="1" fill="none" fill-rule="evenodd"/>
-</svg>
