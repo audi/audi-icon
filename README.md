@@ -1,103 +1,16 @@
-# Audi Icon
+# Audi Icons
 
 ## General Usage
 
-All Audi Icons come in two sizes
+All Audi Icons come in three sizes
+- extra small: 16px
 - small: 24px
 - large: 48px
 
-## SVG
-
-### Add the Audi Icon CSS
-To style the Audi Icon SVGs, add the Audi Icon CSS to your website.
-
-The CSS is located in the `dist/css` folder.
-
-``` html
-<link href="audi-icon.min.css" rel="stylesheet">
-```
-
-### Using Audi Icon SVGs
-We like SVGs and we think they're the way to display icons on the web. Since Audi Icons are just basic SVGs, we suggest you display them like you would any other image (don't forget the alt attribute).
-
-All SVGs are located in the `dist/svg/static` folder.
-
-``` html
-<img class="audiicon" src="icon-name-small.svg" alt="icon name">
-
-<!-- or large -->
-<img class="audiicon audiicon--large" src="icon-name-large.svg" alt="icon name">
-```
-
-### Using Audi Icon SVG Sprite
-
-Audi Icons also come in a SVG sprite which allows you to display all the icons in the set with a single request. It's like an icon font, without being a hack.
-
-Adding an icon from an SVG sprite is a little different than what you're used to, but it's still a piece of cake.
-
-The SVG Sprite is located in the `dist/svg/sprite` folder.
-
-``` html
-<svg class="audiicon">
-  <use xlink:href="sprite.svg#audiicon-icon-name-small"></use>
-</svg>
-
-<!-- or large -->
-<svg class="audiicon audiicon--large">
-  <use xlink:href="sprite.svg#audiicon-icon-name-large"></use>
-</svg>
-
-<!-- or both to switch between the two sizes -->
-<style media="screen">
-  @media (min-width: 1024px) {
-    .audiicon {
-      width: 48px;
-      height: 48px;
-    }
-    .audiicon-small {
-      visibility: hidden;
-    }
-    .audiicon-large {
-      visibility: visible;
-    }
-  }
-</style>
-<svg class="audiicon">
-  <use xlink:href="sprite.svg#audiicon-icon-name-small" class="audiicon-small"></use>
-  <use xlink:href="sprite.svg#audiicon-icon-name-large" class="audiicon-large"></use>
-</svg>
-```
-
-Coloring icons is really easy. Because all fills and strokes use `currentColor`, all you need to do is set the color rule on the `<svg>` tag.
-
-``` css
-.audiicon {
-  color: white;
-}
-```
-
-To learn more about SVG Sprites, read [Chris Coyier's guide](http://css-tricks.com/svg-sprites-use-better-icon-fonts/).
-
-## PNG
-You can find our default stylesheets in `dist/css` and the PNGs in `dist/png`.
-
-``` html
-<link href="audi-icon.min.css" rel="stylesheet">
-```
-
-``` html
-<img class="audiicon" src="icon-name-small.png" alt="icon name">
-
-<!-- or large -->
-<img class="audiicon audiicon--large" src="icon-name-large.png" alt="icon name">
-
-<!-- or double sized for high resolution displays -->
-<img class="audiicon" src="icon-name-small.png" srcset="icon-name-small.png 1x, icon-name-small-2x.png 2x" alt="icon name">
-<img class="audiicon audiicon--large" src="icon-name-large.png" srcset="icon-name-large.png 1x, icon-name-large-2x.png 2x" alt="icon name">
-```
+In addition, there is an active state for all icons in the size 'small'. They can be used, for example, in icon buttons or tags to support the indication of an active state.
 
 ## Icon font
-You can find our default stylesheets in `dist/css` and the fonts in `dist/font`.
+The icon font comes in two styles: Regular (outlined icons) and Active (filled icons). You can find the font files in `dist/fonts`.
 
 ``` html
 <link href="audi-glyph.min.css" rel="stylesheet">
@@ -106,8 +19,35 @@ You can find our default stylesheets in `dist/css` and the fonts in `dist/font`.
 ``` html
 <span class="audiglyph audiglyph-icon-name" title="icon name" aria-hidden="true"></span>
 
-<!-- or large -->
-<span class="audiglyph audiglyph-icon-name audiglyph--large" title="icon name" aria-hidden="true"></span>
+<!-- extra small -->
+<span class="audiglyph audiglyph-icon-name audiglyph--xs" title="icon name" aria-hidden="true"></span>
+
+<!-- large -->
+<span class="audiglyph audiglyph-icon-name audiglyph--l" title="icon name" aria-hidden="true"></span>
+
+<!-- active -->
+<span class="audiglyph audiglyph-icon-name audiglyph--active-s" title="icon name" aria-hidden="true"></span>
+```
+
+## React
+You can find our react icon files in `dist/react`.
+
+## SVGs
+We like SVGs and we think they're the way to display icons on the web. Since Audi Icons are just basic SVGs, we suggest you display them like you would any other image (don't forget the alt attribute).
+
+All SVGs are located in `dist/svg`.
+
+``` html
+<img class="audiicon" src="icon-name-s.svg" alt="icon name">
+
+<!-- extra small -->
+<img class="audiicon audiicon--xs" src="icon-name-xs.svg" alt="icon name">
+
+<!-- large -->
+<img class="audiicon audiicon--l" src="icon-name-l.svg" alt="icon name">
+
+<!-- active -->
+<img class="audiicon audiicon--active-s" src="icon-name-active-s.svg" alt="icon name">
 ```
 
 ## Demo page
